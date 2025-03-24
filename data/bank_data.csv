@@ -1,0 +1,2001 @@
+CustomerID,Name,AccountType,Balance,TransactionCount,Region,JoinDate,IsActive,CreditScore
+9979,Sarah Williams,Checking,89771.14,42,New Jersey,2020-02-16,True,
+40742,Selena Obrien,Savings,44711.44,47,Arkansas,2023-12-18,False,
+18236,Adam Mitchell,Credit Card,86368.49,21,California,2020-11-09,False,
+25372,Erica Knapp,Checking,16326.34,21,South Carolina,2021-08-08,False,
+43987,Victoria Martinez,Checking,30007.25,2,Texas,2020-03-27,True,
+22258,Katherine Cameron,Credit Card,36855.45,48,Connecticut,2022-03-22,False,
+156,David Smith,Savings,53018.89,23,Rhode Island,2024-11-08,False,
+5245,Christina Murphy,Savings,43640.16,7,Nevada,2020-11-07,True,
+94313,Tyler Lewis,Credit Card,19458.9,16,Wisconsin,2021-01-25,True,
+38093,Anne Mcdowell,Savings,15210.43,45,New Mexico,2024-04-14,False,
+28047,Christopher Hill,Savings,38573.37,37,North Carolina,2022-04-03,False,524.0
+46839,Patrick Hicks,Savings,98507.83,12,Texas,2023-09-27,True,
+57775,Cheryl Jackson,Checking,99419.86,42,New York,2021-08-04,False,
+2626,James Allen,Savings,89829.23,31,Minnesota,2022-11-07,False,
+46021,Elijah Mitchell,Credit Card,73324.77,43,Alaska,2020-03-09,True,443.0
+65006,Cheryl Hurley,Checking,47347.53,29,West Virginia,2020-07-28,False,
+86141,Brett Preston,Credit Card,28815.66,19,Virginia,2020-06-24,False,823.0
+88779,Christine Greene,Credit Card,50213.17,15,Colorado,2021-07-07,False,
+27007,Amanda Henderson,Checking,34527.51,4,Ohio,2021-11-15,False,
+91651,Joseph Burton,Checking,74293.32,27,Hawaii,2022-07-06,True,
+50840,Diane Forbes,Credit Card,47526.65,49,Mississippi,2024-12-21,True,459.0
+72643,William Garcia,Credit Card,53658.67,30,Georgia,2020-06-18,True,
+2788,Ian Anderson,Checking,20800.54,10,Nebraska,2024-12-30,False,380.0
+44693,Matthew Alvarez,Savings,32519.05,15,Ohio,2022-12-05,False,774.0
+27488,Miranda Walker,Savings,76322.49,40,New Jersey,2020-11-08,True,439.0
+18439,Mark Schultz,Checking,50032.24,36,South Carolina,2022-04-01,False,
+50206,Darrell Ross,Savings,81523.35,13,Mississippi,2023-07-30,False,673.0
+53768,Travis Rodgers,Savings,61252.98,2,Maryland,2023-07-27,False,
+87439,Kara Caldwell,Savings,91886.88,21,Iowa,2023-06-27,False,460.0
+14315,Michael Brown,Savings,19809.97,31,Illinois,2021-08-21,False,313.0
+23201,Maureen Thomas,Checking,95483.75,21,Mississippi,2020-11-05,False,
+45202,Paul Bradford,Credit Card,92918.45,14,Virginia,2023-10-21,True,
+46341,Thomas Krueger,Credit Card,43270.15,48,Louisiana,2022-11-19,False,
+28232,Julie Davis,Savings,10643.56,14,Oklahoma,2021-09-01,False,575.0
+62409,Erik Beck,Credit Card,91931.0,9,Wyoming,2020-05-27,False,
+83836,Morgan Jarvis,Checking,12742.11,27,Florida,2021-09-20,True,390.0
+97675,Jeffrey Vargas,Savings,98707.08,6,Washington,2022-03-29,True,
+2326,Kim Rodriguez,Checking,48081.2,14,Maryland,2023-07-14,False,406.0
+90335,James Curry,Checking,7344.91,13,Hawaii,2020-02-11,False,
+36526,Angel Nelson,Savings,66130.44,7,Wyoming,2020-12-19,True,564.0
+3567,Kevin Anderson,Credit Card,87915.51,12,Maryland,2023-06-14,False,
+29841,Jessica Wright,Credit Card,52042.11,11,Mississippi,2023-04-11,False,386.0
+42273,Debra Cook,Checking,42362.74,1,Oklahoma,2023-12-22,False,
+51565,Travis Douglas,Checking,78565.32,7,North Dakota,2023-08-17,False,
+43004,Jennifer Willis,Savings,66450.92,28,Florida,2020-04-23,False,591.0
+39956,Sarah Underwood,Credit Card,56976.4,18,Maine,2022-08-06,True,740.0
+95467,Nicole Myers,Savings,55785.18,13,Wisconsin,2023-11-05,True,
+55380,Greg Mathis,Checking,12148.32,44,Alabama,2020-10-25,True,
+80950,Elizabeth Stout,Savings,97993.44,14,Delaware,2021-10-02,True,829.0
+49831,Dylan King,Checking,70128.93,50,Maryland,2024-06-07,True,
+36186,Lisa Reilly,Credit Card,92022.22,35,Illinois,2022-02-13,False,458.0
+82915,Connor Frye,Checking,25608.04,41,North Dakota,2023-01-06,False,
+77950,Jason Mercer,Credit Card,93204.1,49,Nevada,2020-05-26,False,
+69468,Laura Bailey,Checking,78903.03,49,Tennessee,2022-05-24,False,
+31797,Linda Robinson,Checking,18287.52,2,North Dakota,2025-01-25,True,
+75183,Steven Torres,Savings,32217.2,2,Arkansas,2024-07-28,True,
+76883,Michael Harvey,Credit Card,63337.98,30,Montana,2024-05-15,True,
+34116,Gregory Perez,Checking,84435.43,37,Nebraska,2022-07-03,False,787.0
+36663,Kyle Johnson,Checking,4172.66,33,Utah,2021-12-18,True,
+42629,Monique Parks,Credit Card,42200.64,38,Louisiana,2020-01-08,False,
+99762,Stephanie Lewis,Savings,89292.8,5,Kentucky,2022-08-01,True,326.0
+9315,Candice Morales,Checking,48491.85,37,Mississippi,2024-07-14,False,715.0
+73865,Kimberly Clark,Savings,87303.31,23,New Jersey,2022-10-19,False,513.0
+91872,Gabriel Camacho,Savings,21025.66,30,South Carolina,2020-02-12,False,576.0
+63111,Karen Hodge,Credit Card,31014.55,39,North Dakota,2024-05-06,False,695.0
+68346,Kim Mullen,Credit Card,17089.87,3,New Mexico,2020-03-05,False,833.0
+68204,Kevin Roy,Checking,78790.36,8,Rhode Island,2020-01-19,True,
+82447,Levi Guzman,Credit Card,25478.52,24,Colorado,2022-04-11,True,836.0
+16249,Mark Singleton,Savings,56641.34,12,Utah,2023-01-02,False,676.0
+98864,Maria Holland,Credit Card,37359.91,46,Minnesota,2023-02-23,False,784.0
+7320,Jodi Davis,Savings,56265.81,40,Minnesota,2024-02-03,False,
+18268,Colin Foster,Credit Card,55075.46,45,Texas,2022-05-18,True,696.0
+64895,Randy Wilson,Savings,60336.23,46,Iowa,2023-12-29,True,415.0
+54874,Beverly Thomas,Checking,51008.67,41,Arizona,2022-06-27,True,
+20338,Jose Weaver,Savings,4176.86,4,Wisconsin,2025-01-06,True,
+59666,Melissa Mills,Savings,57310.07,1,Maryland,2021-03-27,True,
+28142,Theresa Diaz,Savings,91739.31,7,Maryland,2024-11-17,False,
+94966,Dustin Massey,Checking,55094.66,1,North Dakota,2020-02-12,True,
+23396,Elizabeth Parker,Checking,88133.71,26,New Mexico,2021-03-11,False,405.0
+52268,Steve Hogan,Credit Card,21119.93,32,Louisiana,2024-02-03,True,492.0
+35358,Donald Martinez,Savings,7347.09,4,Kentucky,2022-08-03,True,
+88257,Christopher Ford DDS,Checking,99589.75,13,Nevada,2022-01-02,True,343.0
+80017,Chris Henderson,Credit Card,7252.7,6,Tennessee,2024-08-27,True,586.0
+89510,Alexander Downs,Checking,68945.93,30,Mississippi,2023-07-29,True,
+65431,Kathleen Owen,Credit Card,70686.78,45,Georgia,2024-06-16,True,818.0
+85517,Shawn Potter,Checking,53399.28,23,Indiana,2023-05-21,True,
+71647,Anthony Moreno,Checking,38605.25,47,Arkansas,2021-11-04,False,
+24380,Diane Smith,Credit Card,46827.08,43,Oklahoma,2021-09-02,True,791.0
+32512,Amber Delgado,Checking,54527.03,7,Alabama,2024-12-27,True,
+93938,Donna Johnson,Credit Card,26192.36,11,Maryland,2020-09-12,False,556.0
+11435,Ann Weiss,Savings,33851.39,37,Alaska,2022-12-16,False,
+13695,Taylor Tate,Credit Card,15429.77,32,Rhode Island,2022-07-02,False,
+13408,Jennifer Rhodes,Savings,54459.61,9,Louisiana,2024-06-20,True,
+79514,John Pratt,Checking,54715.03,50,Texas,2021-01-31,False,470.0
+58427,Edward Johnson,Checking,48599.01,11,Rhode Island,2020-11-18,False,806.0
+18084,Michelle Johnson,Credit Card,35035.19,49,Wyoming,2021-12-24,False,366.0
+30067,Gregory Kelley,Credit Card,50147.42,21,Kansas,2022-06-16,True,386.0
+73785,Brent Blackwell,Credit Card,98264.74,36,Delaware,2021-08-28,True,
+59537,Cory Kennedy,Savings,59625.21,9,Tennessee,2021-11-17,False,
+86808,Michelle Welch,Checking,53079.81,5,Georgia,2021-08-01,True,
+60015,Rachel Rodriguez,Checking,81968.06,12,Missouri,2025-03-22,False,
+75089,Russell Orr,Credit Card,10581.89,42,Connecticut,2022-04-10,True,
+46015,Theodore Fernandez,Credit Card,98147.56,23,Iowa,2021-11-04,False,626.0
+28927,Jaime Perry,Savings,53044.52,37,New York,2023-05-09,True,
+97395,Joe Watkins,Checking,31200.91,1,Wyoming,2020-07-23,False,433.0
+69366,Melissa Hayes,Savings,45832.85,38,Michigan,2022-12-12,False,
+13718,Joseph Navarro,Savings,8417.37,20,Arizona,2023-07-15,True,376.0
+42074,Alexis Lynch,Checking,11453.82,40,North Dakota,2024-12-26,False,
+5191,Nicholas Morris,Checking,77349.44,26,New Mexico,2022-11-23,False,
+40861,Juan Thompson,Checking,88843.64,44,Missouri,2022-05-05,True,
+4032,Ashley Gregory,Checking,29143.75,47,Texas,2021-05-20,False,
+15269,Tyrone Humphrey,Savings,76481.18,41,Wisconsin,2021-05-03,True,534.0
+51258,Jeremy Johnson,Checking,99001.97,35,Louisiana,2022-05-02,False,
+9658,William Barker,Savings,4044.79,36,California,2024-12-27,True,
+2342,Chris Morgan,Checking,18818.45,25,Oregon,2020-07-30,True,440.0
+74158,John Wade,Checking,52126.36,16,Washington,2024-11-06,False,
+6800,Christopher Jackson,Credit Card,77061.09,14,North Carolina,2020-11-13,False,
+54616,Vanessa Clark,Checking,77924.45,8,Tennessee,2025-02-14,False,
+57161,Katherine Green,Checking,84045.21,13,Oklahoma,2021-01-09,True,
+85245,Kevin Hood,Checking,9015.66,28,Vermont,2022-03-19,True,338.0
+36678,Anthony Evans,Credit Card,19280.29,19,Missouri,2025-01-09,True,
+36533,Hunter Kennedy,Checking,62467.31,42,Florida,2022-12-15,False,313.0
+73242,Donna Diaz,Savings,99718.79,44,New Hampshire,2023-09-15,True,
+32385,Erik Gonzalez,Checking,22174.91,33,Ohio,2023-08-22,False,605.0
+39387,Diamond Kelly,Savings,8214.77,39,Arkansas,2021-06-11,False,565.0
+37142,Katherine Long,Savings,80019.32,13,Michigan,2024-04-06,True,308.0
+63020,Maureen Glass,Credit Card,82222.73,11,Pennsylvania,2021-07-14,True,
+89032,John Robinson,Checking,48899.68,30,Missouri,2022-10-15,True,
+17463,Jacob Gonzalez,Savings,12801.64,17,Washington,2024-10-01,False,
+41021,Robert Stewart,Credit Card,15021.19,25,Michigan,2024-04-23,True,556.0
+11376,Joseph Rodriguez,Checking,84615.52,23,Nevada,2024-10-01,True,469.0
+78567,Todd Finley,Credit Card,54135.25,34,New Jersey,2021-05-07,True,
+6848,Dennis King,Checking,85183.73,46,Utah,2020-06-16,True,
+69875,Laura Pierce,Checking,37442.04,4,Oklahoma,2024-06-24,True,510.0
+15142,Christopher Arias,Credit Card,81487.49,3,Pennsylvania,2021-03-25,False,404.0
+89444,Scott Wright,Checking,66402.13,27,Connecticut,2020-10-30,True,
+24543,Tracy Cobb,Credit Card,42257.72,47,Connecticut,2022-09-04,True,309.0
+78407,Antonio Stevenson,Checking,91013.82,37,Arkansas,2022-03-27,False,472.0
+78323,George Powell,Credit Card,76542.85,2,Montana,2020-10-28,True,
+84396,Danny Malone,Savings,15119.7,29,Delaware,2024-10-01,True,
+85635,Danielle White,Credit Card,26413.98,35,Hawaii,2024-05-05,True,828.0
+32898,Yvette Dougherty,Savings,21561.12,36,Rhode Island,2020-06-19,True,824.0
+98216,Bradley Berger,Checking,77834.44,35,West Virginia,2021-09-24,False,
+10263,Emily Chang,Checking,74649.65,3,Idaho,2024-07-26,True,408.0
+41041,Paul Lara,Checking,62643.77,7,Rhode Island,2023-03-10,True,
+97957,Kristine Ramirez,Savings,3259.88,10,New York,2022-12-18,False,526.0
+45902,Robert Glover,Savings,47606.75,42,Maryland,2023-08-30,True,598.0
+93739,Kaitlyn Richardson,Credit Card,9682.98,30,Pennsylvania,2024-01-10,False,463.0
+10186,Noah Mcbride,Credit Card,2031.78,34,South Carolina,2022-01-01,False,659.0
+42340,Jennifer Garcia MD,Credit Card,18223.27,19,New Mexico,2023-12-13,False,748.0
+21380,Michael Rodriguez,Checking,8050.27,28,Utah,2024-06-21,True,
+17449,Julie Williams,Credit Card,27067.25,18,Vermont,2024-04-28,False,810.0
+62529,Kelly Brock,Credit Card,85631.54,15,Georgia,2022-11-13,True,
+53681,Dr. Jacob Duncan,Credit Card,99811.33,39,Louisiana,2021-09-04,False,387.0
+87690,Ashley Lee,Savings,69785.54,8,Maine,2021-10-24,False,423.0
+86041,Jason Gaines,Checking,17369.45,15,Missouri,2022-05-09,False,
+54250,Michael Parker,Checking,53655.03,36,Florida,2020-02-19,True,609.0
+39315,Joe King,Checking,75468.55,38,Kansas,2024-02-21,True,547.0
+50561,Timothy Beltran,Checking,57488.98,36,Louisiana,2022-01-27,False,
+16764,Tracy Nielsen,Credit Card,74433.64,44,South Dakota,2023-06-13,True,678.0
+41367,Kayla Pena,Credit Card,15589.33,36,Indiana,2021-06-08,True,440.0
+52202,Claire Carpenter,Credit Card,12427.45,40,Minnesota,2020-10-18,False,
+16301,Brittney Robinson,Checking,76404.26,43,Connecticut,2023-06-04,False,
+2418,Steven Blackwell,Credit Card,62768.99,42,Maine,2025-02-01,False,656.0
+88653,Kelly Webb,Checking,17878.07,5,Mississippi,2023-04-28,False,
+92985,Marcus Choi,Savings,78573.09,32,Vermont,2022-02-15,False,787.0
+28573,Alexander Frank,Credit Card,74876.83,42,Kentucky,2024-03-29,False,
+81791,Charles Watson,Checking,48916.01,44,Pennsylvania,2021-12-17,True,517.0
+94131,Jeffrey Knight,Checking,17218.84,49,Arkansas,2022-01-09,False,
+39723,Malik Vega,Checking,61656.14,13,Nevada,2023-09-02,False,607.0
+94470,Eddie Thomas,Credit Card,94025.86,6,Ohio,2024-06-26,True,732.0
+69162,Kayla Cook,Savings,74125.47,5,West Virginia,2021-05-16,True,
+37647,Brian Rodriguez,Checking,67061.07,25,Delaware,2022-03-15,False,696.0
+24068,Stephanie Sutton,Credit Card,32584.92,14,Kentucky,2020-06-24,True,
+72242,Joyce Reed,Checking,19807.71,26,Ohio,2021-06-25,True,
+38994,Kenneth Taylor,Checking,83659.03,31,Kentucky,2022-10-04,False,
+90144,Courtney Schultz,Checking,81475.16,49,Oklahoma,2021-05-27,True,656.0
+71973,Jeffery Nunez,Savings,91811.45,35,Nevada,2021-09-11,True,
+14166,Regina Clark,Checking,1874.83,1,Florida,2022-07-06,True,
+18320,Andrew Hamilton,Savings,42531.49,12,North Dakota,2023-09-11,True,
+17116,Patrick Wood,Credit Card,90789.96,19,New Hampshire,2024-09-16,True,786.0
+68256,Stephen Green MD,Savings,49180.46,29,Mississippi,2024-05-06,True,
+86795,Jill Bridges,Checking,53034.57,34,Wyoming,2020-12-12,False,351.0
+24562,Marissa Olson,Checking,27283.9,38,Montana,2022-02-07,False,
+4241,Alex Michael,Savings,16217.39,20,Oregon,2024-12-02,False,
+85464,Kevin Mcneil,Checking,8232.15,4,Maryland,2023-07-06,True,410.0
+32003,Jason Curtis,Checking,88898.38,28,Wyoming,2022-07-20,False,361.0
+82356,Linda Taylor,Checking,67680.7,27,Washington,2023-05-03,True,550.0
+82294,Carl Ellis,Checking,26120.87,26,Hawaii,2020-09-16,False,
+27760,Amy Gillespie,Savings,85706.14,37,New Mexico,2022-05-16,False,783.0
+77241,Jared Henry,Savings,4179.96,41,Wisconsin,2022-04-02,True,
+47119,Paul Strong,Credit Card,33895.27,30,Alabama,2023-07-29,False,
+97900,Barbara Archer,Checking,20609.15,4,Hawaii,2020-01-29,True,713.0
+12932,Vanessa Murphy,Checking,1330.24,18,Missouri,2023-12-19,True,
+92394,Mark Martin,Credit Card,91198.33,20,Rhode Island,2022-05-18,True,
+78346,Rachel White,Credit Card,89624.16,7,Delaware,2022-11-12,True,809.0
+3568,Norma Harris,Checking,18563.22,21,Oregon,2025-02-28,True,
+25055,Christopher Carrillo,Savings,19961.87,42,Ohio,2021-10-16,True,303.0
+29452,Charles Carpenter,Savings,10248.81,38,Oklahoma,2025-01-05,False,582.0
+55110,Elizabeth Ayers,Savings,2759.64,16,New York,2024-06-29,False,
+29373,William Lopez,Savings,565.12,27,Kentucky,2024-02-07,True,
+49895,Bridget Miller,Checking,15986.04,33,Iowa,2020-04-15,True,831.0
+24021,Jason Munoz,Savings,46797.76,14,North Dakota,2023-06-11,True,
+28285,Phillip Vance,Checking,23992.68,23,Delaware,2023-02-27,True,686.0
+6588,Todd Freeman,Checking,52748.34,36,Kansas,2020-06-28,True,
+9123,Sheri Martinez,Savings,4222.89,9,Colorado,2022-12-18,False,
+29692,Katherine Dougherty,Checking,51127.67,29,Colorado,2020-08-28,False,388.0
+17575,Rebecca Montgomery,Checking,33219.17,7,New Jersey,2023-04-16,False,
+47181,Tony Morales,Savings,52619.99,29,Georgia,2022-09-26,True,378.0
+7288,Terri Avery,Savings,54874.12,7,North Dakota,2024-03-25,True,568.0
+1068,Kenneth Ortega,Checking,76084.54,14,North Dakota,2023-04-20,False,
+39444,Michael Freeman,Checking,23602.07,20,Wyoming,2022-08-22,True,
+6225,Traci Wise,Savings,17972.2,9,Utah,2020-06-15,False,
+83998,Mackenzie Obrien,Credit Card,55138.42,10,Missouri,2020-01-20,True,675.0
+70813,Danielle Brown,Checking,99585.14,16,Massachusetts,2023-10-09,True,768.0
+91021,Scott Smith,Credit Card,87152.06,4,Oklahoma,2020-05-24,True,801.0
+97257,Tony May,Credit Card,17344.95,46,South Carolina,2023-04-26,True,744.0
+10606,Vincent Dillon,Credit Card,46812.78,12,Hawaii,2022-10-20,True,420.0
+70425,Renee Johnson,Savings,48187.56,32,Montana,2020-02-26,False,623.0
+43783,Philip Wong,Savings,35626.59,47,Kansas,2024-10-31,False,
+69102,Robert Valdez,Checking,3775.49,28,Missouri,2023-09-25,False,435.0
+74872,Kenneth Jones,Checking,2344.09,17,Illinois,2020-05-02,True,
+59822,Kenneth Mccullough,Savings,70109.78,33,Texas,2021-09-30,False,
+17673,Warren Smith,Savings,28397.55,28,North Carolina,2021-12-14,True,
+23845,Scott James,Savings,82211.39,22,New Jersey,2024-05-28,False,
+79690,Amanda Alvarez,Savings,31123.42,12,Tennessee,2021-08-15,False,327.0
+40605,Jesse Peterson,Credit Card,30389.17,26,Oklahoma,2020-04-04,False,
+99232,Amy Torres,Savings,1941.8,12,Alabama,2023-12-23,False,
+40561,Desiree Green,Credit Card,59497.16,45,New Jersey,2023-09-13,False,
+76009,Virginia Wood,Credit Card,14057.42,38,Alabama,2020-02-25,False,
+13731,Adam Sawyer,Checking,73315.74,37,West Virginia,2022-06-18,True,
+36842,Shelby Moreno,Checking,52413.75,50,New York,2021-02-25,True,682.0
+31001,Gina Harris,Checking,93322.93,33,Iowa,2020-08-18,True,
+28930,Wendy Duran,Savings,90383.37,20,North Dakota,2021-01-28,True,537.0
+97820,Michael Barr,Savings,95173.41,48,Mississippi,2021-09-28,True,308.0
+59884,Nathan Torres,Credit Card,97436.77,4,Massachusetts,2024-04-25,True,682.0
+1286,Kimberly Benson,Checking,13526.55,35,Wyoming,2022-10-31,False,512.0
+54541,Elijah Orr,Credit Card,35187.18,44,Louisiana,2022-01-25,False,328.0
+77120,Julie Ruiz,Checking,53299.17,43,Louisiana,2024-07-23,True,336.0
+69931,Nicholas Kline,Credit Card,6220.52,28,Arkansas,2021-03-11,True,666.0
+19623,Debra Brown,Savings,88995.05,30,Mississippi,2022-09-23,True,740.0
+93154,Christopher Wilson PhD,Checking,79755.18,44,Oregon,2021-06-15,False,539.0
+3741,Kenneth Gardner,Savings,29209.27,31,Louisiana,2022-07-08,True,
+81505,Robert Barrett,Checking,61141.22,8,Colorado,2024-04-07,True,441.0
+4425,Xavier Knapp,Credit Card,99744.33,32,Iowa,2023-09-27,True,360.0
+74313,Aaron Andrews,Credit Card,95856.98,5,Massachusetts,2022-03-30,False,797.0
+32515,Laura Rhodes,Checking,99967.73,8,Pennsylvania,2023-01-09,False,573.0
+87063,Cynthia Ryan,Checking,56639.55,3,Texas,2022-03-12,True,
+56082,Megan Rodriguez,Credit Card,92559.19,13,Utah,2020-01-29,True,
+56905,Patricia Dominguez,Savings,14067.95,1,Wisconsin,2020-01-26,False,782.0
+9508,Jack Williams,Savings,83345.9,6,Louisiana,2020-04-22,False,
+86961,Mary Douglas,Savings,95475.2,40,Nevada,2025-01-20,True,
+14796,Rachel Williams,Savings,74483.91,5,Pennsylvania,2022-02-05,False,799.0
+84443,Crystal Santos,Credit Card,73599.0,10,Nevada,2021-11-15,True,402.0
+8356,Jason Brennan,Savings,49745.51,11,Washington,2021-03-02,True,
+99337,Peggy Maynard,Savings,22250.98,10,Tennessee,2020-04-24,True,
+18276,Sophia Ryan,Checking,23049.01,25,New York,2022-04-16,False,
+58462,Carolyn Steele,Credit Card,71129.28,38,South Carolina,2024-12-24,True,
+46689,Elizabeth Haney,Savings,87712.95,29,Oregon,2023-10-29,True,
+29842,Jeff Colon,Savings,71580.2,30,Tennessee,2022-05-25,True,
+25026,Anna Williams,Savings,78144.57,21,Alaska,2023-07-12,True,
+7156,Chase Soto,Credit Card,26481.73,14,West Virginia,2024-02-10,True,519.0
+69799,Mark Miller,Savings,3090.3,6,West Virginia,2023-01-09,False,
+33141,Jonathan Rice,Checking,17237.46,39,New Jersey,2021-06-25,True,732.0
+10804,Lisa Hodge,Checking,19790.94,35,Georgia,2021-07-12,False,846.0
+14326,Amanda Rodriguez,Credit Card,30833.66,17,Kentucky,2025-01-20,False,824.0
+91736,John Hatfield,Credit Card,94210.49,29,Arizona,2020-02-17,False,
+13977,Nicholas Hoffman,Credit Card,6646.79,37,Ohio,2020-12-30,False,478.0
+85084,Randall Johnson,Checking,50204.92,39,Maryland,2024-05-22,True,423.0
+83590,Melanie Garcia MD,Checking,89713.14,31,Oklahoma,2023-04-26,True,578.0
+19955,Blake Meyers,Savings,27634.75,26,Texas,2022-07-21,False,332.0
+19495,David Rivera,Checking,37516.31,32,Idaho,2023-07-11,False,713.0
+92027,Jonathan Sanchez,Credit Card,20341.42,26,Arizona,2022-12-04,False,
+73878,Ryan Bates,Credit Card,82822.71,5,Tennessee,2022-01-30,False,
+20833,Linda Griffin,Savings,87749.6,21,New Hampshire,2021-10-06,False,477.0
+58612,Jamie Cooley,Savings,51970.16,44,New Hampshire,2020-12-26,False,403.0
+76521,Summer Bailey,Savings,74430.71,49,Arizona,2023-02-23,True,641.0
+38584,Mrs. Tammy Bell,Checking,40178.45,23,Arkansas,2023-04-13,True,
+46129,Susan Morales,Credit Card,82430.68,44,Colorado,2023-10-25,False,507.0
+61439,Becky Guerrero,Checking,9320.63,36,New Hampshire,2021-03-06,False,
+89650,Christina Wright,Checking,8982.01,25,Rhode Island,2022-07-29,True,
+63135,Marcus Arnold DDS,Credit Card,85810.8,23,Texas,2021-11-15,True,
+80897,Chloe Burns,Credit Card,93044.23,6,Florida,2022-06-27,False,
+60453,Catherine Walker,Savings,22503.72,27,Washington,2020-06-19,False,426.0
+73847,James Chambers,Savings,34776.74,26,Florida,2023-04-22,False,
+12523,Alvin Harris,Credit Card,57026.09,37,Vermont,2021-09-04,False,715.0
+36141,David Moore,Credit Card,6841.82,8,New Mexico,2023-10-23,True,721.0
+43182,Jeremy Mitchell,Credit Card,87392.35,13,Kansas,2022-09-14,True,
+55486,Kayla Kim,Credit Card,52343.16,17,Idaho,2022-04-17,False,726.0
+67852,Miranda Brown DVM,Credit Card,68586.45,8,Oregon,2021-01-05,False,
+51213,Jacob Hansen,Credit Card,14965.31,30,Vermont,2022-08-01,False,
+41566,Sharon Hill,Checking,82814.72,10,Oregon,2023-07-23,False,515.0
+44707,Katie Brown,Credit Card,41729.13,35,Nevada,2025-01-14,False,
+3322,Tony Ford,Checking,45733.0,24,Pennsylvania,2022-05-26,True,685.0
+66187,Kenneth Clark,Savings,80043.56,11,Vermont,2021-06-16,True,779.0
+62014,Christopher Wells,Checking,44443.26,47,Texas,2024-06-12,True,843.0
+69773,Natasha Henderson,Savings,41403.61,26,Maine,2024-12-25,True,
+74367,James Wheeler,Checking,74133.13,4,Washington,2021-09-26,False,
+29576,Matthew Williams,Checking,9936.32,33,Idaho,2021-05-13,False,
+69721,Jason Everett,Credit Card,39397.48,46,Kentucky,2022-06-04,False,719.0
+61520,Michael Hall,Checking,85171.19,35,Missouri,2023-03-10,True,776.0
+99496,Kyle Andrews,Credit Card,64745.63,5,Kansas,2021-03-20,True,400.0
+34417,Calvin Castillo,Credit Card,77951.69,4,Rhode Island,2022-02-26,True,674.0
+8274,Bobby Lopez,Checking,65826.01,38,South Dakota,2021-05-24,False,778.0
+87487,Brent Wright,Checking,79597.45,28,Vermont,2021-11-24,True,423.0
+76084,Pamela Day,Checking,94104.79,4,Texas,2024-03-02,True,447.0
+825,Kenneth Mitchell,Checking,88001.12,27,South Dakota,2021-11-04,False,
+53112,Christopher Sherman,Checking,48651.84,42,Rhode Island,2020-06-01,True,
+5246,Kenneth Campbell,Checking,99108.08,41,Wyoming,2024-09-29,False,789.0
+16573,Charles Rodriguez,Savings,53785.06,46,New Jersey,2020-06-16,False,367.0
+68743,Janet Reyes,Checking,88755.55,27,Montana,2021-05-21,False,817.0
+97963,Chris Brown,Checking,58352.59,3,Iowa,2024-11-10,True,405.0
+61530,David Gray,Checking,99600.73,4,Connecticut,2023-10-07,True,
+27718,Ann Campbell,Savings,31610.89,12,Arkansas,2024-12-22,False,
+64117,Hannah Riley,Credit Card,18511.35,35,Delaware,2021-01-22,True,
+34719,Patricia Gregory,Checking,88598.09,23,Minnesota,2025-03-05,True,
+3754,Mark Lane,Savings,21347.58,19,West Virginia,2022-05-18,True,
+67942,Erin Spencer,Savings,30992.37,47,Texas,2022-12-19,False,
+42303,Donald Williamson,Savings,14167.86,12,Iowa,2024-02-12,True,506.0
+56469,Tricia Anderson DDS,Savings,64387.08,3,Rhode Island,2020-09-12,False,675.0
+70134,Derek Baldwin,Credit Card,20777.65,14,Tennessee,2022-07-18,False,840.0
+52597,Jessica Rogers,Credit Card,70458.65,44,West Virginia,2022-08-21,True,716.0
+4674,Justin Kirby,Savings,26366.6,48,Florida,2021-02-13,True,
+11805,William Klein,Credit Card,38897.34,33,Nevada,2024-01-27,False,433.0
+79393,John Richardson,Savings,90117.86,24,California,2021-05-28,False,675.0
+18026,Candice Hughes,Credit Card,77533.56,10,North Carolina,2023-09-28,True,
+25978,Jessica Clark,Savings,63145.61,14,Oregon,2020-01-09,False,
+12331,Nicole Beard,Savings,67578.75,48,Iowa,2024-10-22,False,
+81871,Mary Green,Credit Card,10758.5,38,Nebraska,2021-01-14,False,835.0
+45989,Kimberly Stewart,Checking,78434.23,36,Connecticut,2023-07-11,False,583.0
+75173,John Mcgrath PhD,Checking,1048.54,12,Pennsylvania,2020-05-23,True,
+42782,David Alexander,Savings,38006.86,15,Hawaii,2020-03-26,False,549.0
+98195,Elizabeth Meyer,Credit Card,30902.41,26,New York,2022-07-14,True,
+29283,Emily Vazquez,Credit Card,96324.23,8,Rhode Island,2021-07-19,False,
+22387,Destiny Thompson,Savings,7928.33,50,South Dakota,2022-03-25,False,
+3241,Daniel Lewis,Checking,39973.54,15,Nebraska,2022-04-22,True,
+9290,Richard Soto,Checking,72540.32,11,Connecticut,2022-08-17,True,
+62011,Rhonda Clark,Savings,5761.23,4,Ohio,2025-03-18,False,430.0
+48391,Angela Copeland,Savings,35964.66,45,Alaska,2021-01-23,True,312.0
+92562,Michele Washington,Credit Card,6397.12,28,New Jersey,2024-10-06,False,
+9848,Donald Ross,Checking,46242.26,7,Washington,2021-07-02,False,
+27710,Theodore Lamb,Credit Card,61046.66,10,Utah,2024-03-22,False,575.0
+57222,Jesse Cooke,Credit Card,61005.84,45,Texas,2022-08-20,True,
+86684,Logan Adams,Credit Card,88785.08,20,South Dakota,2024-01-27,True,
+8244,Karen Finley,Checking,64991.72,42,Oregon,2022-05-12,False,
+43661,Janet Rodriguez,Savings,22334.99,12,Pennsylvania,2021-10-05,True,
+89993,Jennifer Martin,Checking,99843.69,48,North Carolina,2022-11-17,False,
+36746,Douglas Le,Credit Card,83851.25,30,New Jersey,2021-12-06,True,563.0
+44254,Victoria Mccarthy,Credit Card,22401.96,32,Delaware,2023-04-22,True,
+54409,Allen Larson,Credit Card,64315.71,25,Washington,2021-09-15,False,425.0
+25984,Hector Chase,Savings,76367.38,50,Connecticut,2021-09-21,True,724.0
+9892,Carolyn Hanson,Savings,28770.77,5,Maine,2020-01-08,True,
+74934,Kelli Smith,Credit Card,8999.04,14,Michigan,2022-05-30,True,492.0
+61302,Taylor Wright,Credit Card,40988.56,38,Kentucky,2023-01-30,False,
+69228,Shawna Jennings,Credit Card,90996.32,45,Idaho,2021-11-14,False,353.0
+55043,Ms. Kristin Turner PhD,Checking,13771.64,13,Pennsylvania,2023-11-22,True,459.0
+19894,Jean Evans,Checking,47538.29,38,Illinois,2022-11-18,True,
+10190,Derrick Mora,Checking,40236.87,7,Oregon,2024-10-08,False,
+35091,Mark Rodriguez,Credit Card,40214.13,41,New Jersey,2020-04-29,False,
+55348,Shane Graham,Credit Card,8868.68,5,Florida,2023-03-26,False,744.0
+582,David Carter,Savings,51146.37,47,Indiana,2024-03-10,True,
+32086,Troy Figueroa,Checking,82493.53,4,Mississippi,2022-03-01,True,694.0
+44702,Crystal Perry,Checking,87670.87,1,Mississippi,2024-04-17,True,
+6359,James Bradley,Checking,4167.72,26,Maine,2022-07-08,True,667.0
+99636,Benjamin Goodman,Savings,81467.47,8,Oregon,2021-05-06,True,
+63498,Rebecca Thornton,Credit Card,33186.49,46,South Carolina,2024-06-25,False,
+64433,Darin Le,Credit Card,45954.28,39,Pennsylvania,2021-11-28,True,
+56352,Debra Santos,Checking,59219.59,24,Alabama,2024-11-14,True,581.0
+3679,Hannah Miller,Savings,74936.32,21,New York,2020-06-26,False,616.0
+89794,Gary Evans,Checking,30103.75,32,New Jersey,2021-05-23,False,393.0
+51963,Angela Green,Checking,93070.96,18,Arkansas,2021-05-12,False,328.0
+15092,Ryan Ellis,Credit Card,76059.21,41,Alaska,2023-05-04,True,533.0
+79371,Kristy Smith,Credit Card,41900.08,31,Rhode Island,2022-10-14,False,
+57239,Angela Melton,Savings,74927.47,36,Indiana,2024-05-13,True,
+65697,Robin Atkinson,Checking,33734.77,37,Indiana,2025-01-17,False,
+14667,Alexis Nelson MD,Credit Card,57568.82,40,Washington,2023-02-11,False,
+89870,Sarah Bates,Savings,20916.67,41,Louisiana,2021-12-29,True,
+94276,Michelle Williams,Savings,32545.88,18,Idaho,2020-02-22,False,
+12077,James Taylor,Credit Card,90496.55,12,Nebraska,2024-12-28,True,386.0
+64051,Mark Hall,Checking,37880.27,35,South Carolina,2024-09-18,True,326.0
+76486,Julie Bowen,Savings,15525.16,1,Mississippi,2022-12-29,False,695.0
+3051,Jessica Rodriguez,Credit Card,24068.12,40,Montana,2020-07-08,False,
+15599,Wanda Larson,Savings,57009.46,34,New Mexico,2021-08-23,False,314.0
+90184,Claudia Baker,Credit Card,37596.13,5,Nevada,2024-07-04,False,850.0
+2675,Patricia Wallace,Savings,71526.59,32,Montana,2022-06-30,False,
+25321,Gabriela Lewis,Credit Card,31684.06,24,South Carolina,2024-09-06,True,583.0
+33248,David Guzman,Credit Card,18144.38,3,California,2024-10-27,False,408.0
+52840,Jeanette Blake,Savings,8501.69,12,Mississippi,2021-01-13,True,357.0
+39377,Tonya Wright,Credit Card,47922.89,9,Georgia,2021-09-23,False,
+74373,Alec Garner,Checking,16237.17,11,Kentucky,2024-09-12,True,
+45486,Alexander Lowe,Savings,6755.12,42,Nebraska,2021-04-09,True,337.0
+43725,Kathleen Thomas,Checking,81741.08,34,New Hampshire,2024-12-03,True,489.0
+26441,Andrew Harris,Savings,21579.65,6,Missouri,2025-03-17,False,395.0
+7593,Mrs. Amanda Cortez,Checking,38058.5,42,Utah,2022-02-06,False,560.0
+88814,Nicole Harris,Savings,65461.95,43,Connecticut,2022-04-05,False,
+75180,Jessica Mcneil,Checking,94538.84,6,Oklahoma,2024-09-27,False,543.0
+72221,Meredith Adams,Savings,73006.57,43,South Carolina,2023-08-21,False,494.0
+80043,Adam Gordon,Checking,62398.53,19,Michigan,2022-03-24,False,
+40784,Kevin Cook,Credit Card,28189.67,41,Oklahoma,2020-08-05,False,781.0
+83790,Richard Rush MD,Checking,5062.54,15,Arkansas,2024-06-19,False,
+36089,Jeffrey Castro,Savings,86402.79,15,Nevada,2021-11-28,False,758.0
+10559,Philip Howe,Savings,20355.35,29,Montana,2024-04-23,True,452.0
+12096,Tammy Henderson,Checking,15614.16,37,Wyoming,2023-04-15,False,540.0
+69717,Gabriella Bradley,Savings,63270.37,30,Oklahoma,2024-11-29,False,556.0
+89966,Matthew Mercado,Credit Card,47208.43,6,Louisiana,2022-04-11,False,532.0
+79263,Christine Garza,Checking,32237.96,37,Nebraska,2024-12-16,False,
+10111,Daniel Ferguson,Checking,48781.77,13,Oregon,2023-01-04,True,
+90113,Mary Johnston,Savings,23279.42,8,Delaware,2021-10-12,True,748.0
+7368,Alex Ferguson,Savings,84723.84,44,South Dakota,2024-10-17,False,
+24112,Elizabeth Ellis,Checking,23020.4,2,Nevada,2021-10-16,False,476.0
+195,Christine Bonilla,Savings,88767.7,41,Michigan,2023-04-20,False,
+72966,Eric Johnson,Checking,90239.11,44,Alaska,2022-06-27,False,799.0
+82049,Jason Lane,Savings,6051.76,4,Maine,2021-06-17,False,609.0
+45115,Timothy Brewer,Checking,69183.3,23,Kentucky,2024-12-11,False,
+37597,Tiffany Jarvis,Checking,60336.29,45,Vermont,2022-03-01,True,
+72005,Marcus Williams,Checking,15337.14,16,Oregon,2022-12-25,True,696.0
+82798,Mikayla Bright,Credit Card,92149.8,10,Missouri,2022-11-26,True,561.0
+32884,Joseph Munoz,Credit Card,45961.97,34,Maryland,2022-08-27,False,
+68242,Jennifer Arias,Credit Card,17989.61,30,Georgia,2021-12-30,True,651.0
+26328,Terri Smith,Savings,68697.04,37,Virginia,2020-07-02,False,
+58903,Christopher Thomas,Credit Card,28125.37,13,Indiana,2020-03-14,False,
+64356,Dylan Stephens,Credit Card,70705.95,25,New Hampshire,2024-06-15,True,721.0
+14602,Scott Green,Savings,94860.41,33,Delaware,2022-12-23,True,
+74075,Jennifer Bonilla,Credit Card,93399.2,26,New Mexico,2023-03-14,False,470.0
+72904,Heidi Jones,Savings,61092.04,43,Maine,2020-06-09,False,706.0
+20003,Ebony Thompson,Credit Card,24717.02,6,Oklahoma,2022-01-29,True,428.0
+19053,Oscar Soto,Credit Card,80046.4,21,Massachusetts,2023-03-18,True,
+44868,Michael Jones,Savings,74639.65,28,Oklahoma,2020-03-26,False,
+33584,Alicia Newton,Savings,60883.33,39,Illinois,2024-02-28,True,
+78197,James Patrick,Savings,51725.37,35,Georgia,2023-06-15,True,
+92215,Anthony Bennett,Credit Card,62385.24,47,Iowa,2023-03-18,True,564.0
+12390,Preston Collier,Checking,11903.66,46,Iowa,2024-01-25,False,
+98109,Timothy Ramos,Checking,1461.56,23,Alaska,2023-01-10,True,
+46092,Emily Sanders,Credit Card,644.79,50,West Virginia,2022-03-29,True,
+9663,Douglas Livingston,Savings,44717.25,34,Maine,2024-12-23,True,
+75951,Edward Johnson,Credit Card,5767.7,17,Georgia,2021-10-24,False,
+81779,Robert Salinas,Credit Card,77822.59,24,Texas,2021-07-14,True,
+34225,Erin Davis,Credit Card,57353.77,47,Kansas,2021-07-05,False,577.0
+96653,Michael Young,Checking,91604.84,6,Alabama,2020-09-05,False,758.0
+84581,Jason Salinas,Credit Card,93748.6,16,Missouri,2020-03-30,True,
+83497,Gloria Duncan,Credit Card,70052.06,29,Wyoming,2021-12-30,False,471.0
+45023,Kim Sweeney,Savings,24197.9,18,Virginia,2022-11-14,False,510.0
+63231,David Lewis,Savings,9800.11,21,Oklahoma,2021-05-29,True,682.0
+75750,Lisa Wright,Savings,70397.06,30,Maine,2022-08-03,True,323.0
+45944,Jonathan Garcia,Credit Card,53031.12,38,Iowa,2022-02-11,False,
+96479,Jesse Tucker,Checking,81077.15,23,New Jersey,2022-11-06,True,368.0
+28680,Heather Benitez,Credit Card,39624.86,23,Nevada,2022-02-05,True,810.0
+1579,Michael Smith,Credit Card,65214.33,17,Indiana,2020-03-11,False,
+67061,Peggy Romero,Credit Card,50569.43,5,Minnesota,2022-08-17,False,627.0
+90770,Jenna Thomas,Savings,47583.89,14,Pennsylvania,2022-07-28,True,740.0
+98804,Shane Rodriguez,Credit Card,98432.74,48,Virginia,2020-05-25,False,
+81757,Sonya Higgins,Checking,30826.51,32,Florida,2022-10-12,False,
+51419,Chad Jackson,Checking,89875.0,13,Alabama,2021-08-18,False,
+76485,Christopher Lewis,Savings,93150.29,21,Missouri,2021-11-23,True,
+94006,Kathleen Perry,Savings,93114.42,38,New Hampshire,2024-05-04,False,596.0
+99589,Christopher Anderson,Checking,78136.68,36,Vermont,2020-02-29,False,
+78462,Kelly Gardner,Checking,5928.27,10,Rhode Island,2024-06-09,True,
+33281,Troy Gray,Credit Card,32864.85,48,Wisconsin,2023-08-28,True,
+13344,Jay Brown,Checking,78721.8,37,Arkansas,2024-09-13,False,
+6312,Rebecca Black,Savings,64143.56,23,Montana,2020-06-22,True,816.0
+36310,Vincent Gilbert,Savings,58456.23,6,Virginia,2020-06-16,False,
+51632,Donald Adams,Checking,76394.04,10,Mississippi,2023-07-11,True,674.0
+25262,Angela Hanson,Checking,43477.93,7,Colorado,2022-04-28,False,
+35622,Jay Charles,Credit Card,17878.16,46,Virginia,2022-12-12,True,836.0
+72481,Brian Davies,Credit Card,90556.7,6,Tennessee,2021-08-20,False,590.0
+60823,Kevin Green,Checking,65999.56,21,Montana,2024-12-30,False,
+52248,Jennifer Martinez,Credit Card,9161.06,12,Rhode Island,2024-11-03,False,498.0
+26206,Justin Ashley,Savings,78555.82,44,Wyoming,2022-05-12,False,
+62916,Brian Burgess,Checking,90852.24,41,Oregon,2024-12-30,True,652.0
+40252,Craig Mayer,Credit Card,91295.5,12,West Virginia,2021-01-10,False,601.0
+98491,Jennifer Mcdonald,Credit Card,33022.45,34,South Dakota,2020-03-09,True,685.0
+54882,Eric Hall,Credit Card,27006.43,46,Connecticut,2024-05-05,False,
+42918,Kim Hardin,Checking,88133.26,28,New York,2020-08-27,True,686.0
+9369,Erik Murray,Savings,47980.4,3,Mississippi,2020-02-16,True,751.0
+52590,Leah Cruz,Savings,35602.62,23,Vermont,2023-09-16,False,
+68923,Jesse Allen,Savings,10051.65,38,Texas,2021-04-30,True,
+28935,Todd Gutierrez,Savings,88324.16,2,Hawaii,2021-12-29,True,
+80231,Traci Smith,Savings,15293.14,23,California,2021-06-03,True,579.0
+36322,Timothy Williams,Savings,72256.95,25,Wisconsin,2020-03-30,False,
+67563,Tamara Morgan,Savings,67595.23,17,Indiana,2023-01-19,False,609.0
+88194,Tonya Dennis,Credit Card,41682.24,6,Rhode Island,2024-08-21,False,
+29875,Dr. Linda Vazquez,Credit Card,64456.78,19,Vermont,2021-04-22,False,
+15210,Robert Andrews DVM,Savings,46407.96,13,Florida,2021-09-12,False,
+77634,Regina Russo,Savings,44888.41,28,Kansas,2020-10-17,False,379.0
+8972,Hannah Pierce,Credit Card,18570.75,45,Kansas,2023-07-11,True,519.0
+51653,Thomas Shaw,Credit Card,3404.24,44,North Carolina,2025-03-02,True,447.0
+34378,Tammy Warren,Checking,71514.03,46,Nevada,2023-04-11,False,391.0
+11347,Melissa Stevens,Credit Card,69058.36,16,Iowa,2023-06-27,False,
+90858,Tom Reynolds,Credit Card,92537.55,34,New Mexico,2021-03-26,False,831.0
+26340,Ashley Madden,Savings,54244.3,27,Virginia,2025-01-26,False,637.0
+41726,Alexis Estes,Checking,35834.46,43,Oklahoma,2024-11-15,False,743.0
+47031,Randy Taylor,Credit Card,52331.41,13,Massachusetts,2024-12-16,True,
+55510,Michael Fuller,Savings,37987.71,40,Ohio,2020-12-12,False,
+65425,John Olson,Checking,55608.46,38,Idaho,2023-02-27,False,589.0
+21366,Barbara Johnson,Savings,34484.46,35,Delaware,2024-10-25,False,
+44837,Brandon Lane,Savings,40218.98,20,Colorado,2022-03-03,True,
+51842,Lisa Logan,Credit Card,40489.31,37,Massachusetts,2022-02-05,False,
+45160,Anna Goodman,Credit Card,42502.6,30,Georgia,2020-03-22,True,445.0
+60140,Andrew Garcia,Savings,92086.04,50,Alabama,2025-02-10,True,
+55549,Pamela Jackson,Savings,87885.17,24,West Virginia,2023-09-17,True,
+1747,Kimberly Dennis,Credit Card,17480.5,10,Alabama,2020-09-19,False,827.0
+80537,Cassandra Mitchell,Checking,50174.65,39,Illinois,2022-03-15,True,
+26416,Danny Williams,Credit Card,28124.43,16,Indiana,2024-12-14,True,772.0
+66077,Helen Greene,Credit Card,18802.51,28,Wyoming,2024-03-02,False,504.0
+34023,Jonathan Vazquez,Savings,83004.24,44,Hawaii,2023-11-11,False,494.0
+16952,Timothy Cruz,Checking,64915.47,19,New Jersey,2025-03-21,False,764.0
+71627,Melissa Leon,Credit Card,99135.8,26,Illinois,2020-12-08,True,
+68930,Daniel Gates,Checking,11472.36,27,Colorado,2023-01-07,False,
+97615,Shannon Cooley,Savings,49871.28,13,South Carolina,2024-06-01,False,496.0
+52950,Charles Bates,Credit Card,85391.0,12,Oregon,2022-09-09,True,419.0
+62001,Sara Davis,Savings,81006.08,27,Alabama,2021-03-11,False,737.0
+90114,Elaine Lane,Savings,56813.9,15,New Hampshire,2025-03-13,True,
+847,Morgan Pope,Savings,19637.87,10,Kansas,2023-12-06,True,348.0
+95538,Jacqueline Hill,Credit Card,81156.99,10,Maryland,2020-04-28,True,787.0
+57923,Sophia Schmidt,Checking,90339.11,3,Oregon,2023-07-26,False,
+82260,Sarah Martinez,Savings,53320.6,47,Florida,2022-11-10,False,306.0
+84152,Kelly Patterson,Savings,38089.92,28,Massachusetts,2020-07-13,True,536.0
+85521,Justin Robinson III,Checking,41171.87,9,Kentucky,2020-03-31,True,
+83168,Kristin Bennett,Savings,96610.4,34,Illinois,2024-10-14,False,644.0
+88401,Lori Roberts,Savings,10369.34,32,Minnesota,2024-02-20,False,402.0
+57178,Kaitlyn Wells,Checking,93919.74,27,Florida,2020-06-10,True,516.0
+40460,Kathleen Wright,Checking,60023.99,2,Virginia,2024-08-16,False,
+5392,Kelsey Steele,Savings,43822.95,43,Minnesota,2025-01-14,False,794.0
+54361,Amanda Hansen,Credit Card,72068.64,17,Vermont,2020-11-30,False,512.0
+80129,Lauren Rose DDS,Savings,81648.82,46,Colorado,2022-04-23,False,340.0
+44633,Ashley Olsen,Checking,41631.42,6,North Carolina,2020-05-01,True,354.0
+34944,Christina Johnson,Checking,12166.11,5,New York,2020-12-19,False,411.0
+39657,Michelle Moore,Checking,91908.8,43,Texas,2022-02-14,True,393.0
+80854,Joseph Serrano,Credit Card,41477.98,41,Massachusetts,2020-09-10,False,
+82921,Deanna Carpenter,Checking,69653.98,8,Wisconsin,2024-02-16,False,663.0
+10901,Gina Norman,Savings,17482.97,6,Maine,2021-01-05,False,
+54432,Patrick Mayer,Credit Card,44338.61,45,Indiana,2022-01-30,True,723.0
+52296,Steven Carter,Checking,15276.76,12,Wyoming,2022-01-29,True,422.0
+76731,Rebecca Alvarez,Credit Card,37467.71,46,West Virginia,2024-03-02,False,
+32258,Bradley Roberts,Savings,17851.7,6,Illinois,2020-07-25,True,
+12946,Michael Lopez,Checking,3088.22,23,Louisiana,2020-01-21,False,789.0
+88451,Paul Villarreal,Credit Card,37623.95,13,Wyoming,2020-10-09,True,
+63890,Austin Lopez,Credit Card,97684.99,47,Alaska,2021-12-04,True,613.0
+7424,Jose Baldwin,Checking,60122.98,44,Colorado,2024-08-31,True,803.0
+3904,John Hall,Savings,32009.51,4,Nebraska,2023-12-10,False,
+66819,John Sims,Checking,2605.0,9,Louisiana,2021-01-14,False,
+35777,Lori Green,Credit Card,15963.02,6,Maryland,2025-02-17,True,
+79515,Susan Davis,Credit Card,65498.71,4,Nebraska,2020-05-25,False,610.0
+81562,Heather Porter,Credit Card,7463.82,10,Maryland,2020-06-12,True,390.0
+47681,Catherine Jenkins,Savings,84360.23,6,Iowa,2023-10-19,False,565.0
+70763,Mary Mccarthy,Checking,8824.08,26,West Virginia,2024-10-06,False,782.0
+76594,Mathew Mullen,Credit Card,48565.35,35,Tennessee,2024-09-15,False,
+95810,Roberto Warner,Savings,60647.53,37,Rhode Island,2020-06-15,False,590.0
+59455,Wendy Hanson,Savings,88803.58,18,Arkansas,2024-01-02,False,
+81268,Cody Stephens,Checking,65445.03,17,Delaware,2023-12-28,False,
+27593,Cody Diaz,Checking,16213.33,7,Montana,2022-12-14,True,
+53411,Melissa Lowery,Savings,1655.84,34,Iowa,2021-01-24,True,694.0
+70056,Bailey Jackson,Checking,51503.82,33,New Hampshire,2023-07-08,False,
+41787,Mark Mosley,Savings,71717.79,11,Utah,2022-05-24,True,333.0
+34696,Brittany Farmer,Checking,21017.6,11,Arizona,2024-04-19,True,
+37592,Robert Lam Jr.,Savings,83372.38,43,Utah,2024-07-20,True,
+29957,Ryan Cunningham,Credit Card,9402.63,32,Utah,2024-04-06,False,
+52449,Nathan Jones,Credit Card,12887.11,21,Oklahoma,2020-06-11,True,453.0
+9635,Michael Patterson,Credit Card,85748.2,38,Wyoming,2021-12-15,False,361.0
+3016,Belinda Black,Checking,36362.28,9,Maryland,2021-12-31,False,
+57808,Hayden Matthews,Credit Card,68393.21,4,Idaho,2021-02-03,True,528.0
+30742,Linda Smith,Savings,90171.01,49,Kansas,2020-04-17,True,
+7664,Richard Adkins,Credit Card,6565.78,47,Wisconsin,2021-09-22,True,720.0
+72831,Elizabeth Smith,Credit Card,86328.64,32,New Jersey,2020-06-12,False,793.0
+27115,Jessica Anderson,Credit Card,85010.75,21,Texas,2023-03-25,False,423.0
+48855,Kristen Roach,Credit Card,83603.63,29,Idaho,2024-08-22,True,
+69266,Patricia Hunter,Savings,57570.2,5,Indiana,2023-04-17,False,596.0
+44326,Denise Jenkins,Checking,91591.81,37,Alabama,2024-09-23,True,
+79539,Amanda Figueroa,Credit Card,96464.83,23,Maryland,2023-12-12,True,817.0
+57591,Brett Stokes,Credit Card,22692.45,1,Missouri,2024-01-19,False,680.0
+2110,George Martinez,Checking,80318.45,37,Pennsylvania,2022-12-21,False,
+19392,Rachel Turner,Credit Card,19146.45,4,Nevada,2021-04-28,True,
+75866,Willie Ware,Savings,24167.75,34,West Virginia,2022-04-08,True,515.0
+26087,Michael Hayden,Savings,22655.64,14,Maine,2020-11-03,True,345.0
+72993,Curtis Bauer,Savings,6469.47,4,Wyoming,2023-01-27,False,834.0
+28336,Suzanne Maynard,Savings,65491.78,4,Texas,2022-08-10,False,728.0
+15754,Stephanie Gross,Credit Card,81737.97,19,Oklahoma,2024-07-11,False,648.0
+3721,Margaret Ward,Credit Card,42521.54,48,Tennessee,2024-06-18,False,663.0
+10065,Lawrence Miller,Savings,95407.16,3,Wyoming,2020-05-28,False,780.0
+92442,Jon Trujillo,Credit Card,30355.0,45,Nevada,2024-10-28,False,542.0
+61663,Gordon Hines,Credit Card,17121.0,14,Delaware,2022-11-02,True,
+9326,Samantha Castillo,Savings,55964.06,29,New Mexico,2025-03-08,True,746.0
+34404,Keith Rogers,Credit Card,94449.72,30,New Jersey,2020-12-04,False,
+47911,Tina Henry,Savings,42565.53,46,Kansas,2022-12-01,True,500.0
+45733,Nicole Pearson,Savings,14339.01,17,Alabama,2023-02-12,False,616.0
+19268,Ryan Walsh,Savings,24044.88,33,New Mexico,2020-04-08,True,
+33666,James Harris MD,Checking,58497.15,15,Vermont,2024-10-14,False,820.0
+967,Mark Coleman,Checking,27090.88,7,Illinois,2024-06-12,True,632.0
+63785,William Freeman,Credit Card,29102.16,6,Michigan,2024-04-11,True,650.0
+12884,Dawn Cline,Credit Card,12629.48,30,Iowa,2021-12-16,False,475.0
+97919,Kristin Young,Checking,50649.5,50,Delaware,2023-12-10,False,590.0
+88290,Robert Olson,Checking,88143.08,48,Ohio,2020-07-02,True,
+53287,Carly Lee,Savings,14465.61,50,Alaska,2023-08-16,True,710.0
+57155,Jennifer Green,Checking,49106.13,40,Nebraska,2024-04-19,True,372.0
+98234,Natalie Brown,Savings,99156.1,27,Alabama,2022-01-22,True,
+73489,Richard Townsend,Savings,92453.4,17,Arkansas,2020-04-26,False,
+50909,Nicole Shepard,Checking,435.17,40,Florida,2024-04-21,False,
+22893,Jonathan Stevens,Savings,21462.52,19,South Carolina,2020-04-29,False,
+95820,Jacob Moore,Savings,44681.96,47,Vermont,2022-03-09,False,
+54558,Joyce Reyes,Credit Card,47334.98,38,Maryland,2021-02-02,False,356.0
+27384,Cristian Shaw,Savings,91699.88,34,Kentucky,2021-03-22,False,533.0
+69378,Donna Rice,Credit Card,25481.64,10,Montana,2022-08-27,True,
+84056,Rachel Dean,Checking,89137.2,41,South Dakota,2021-01-19,True,
+11972,Natasha Fry,Credit Card,48829.85,7,Vermont,2023-06-19,False,493.0
+48897,Jeremy Barker,Savings,73838.26,11,Illinois,2020-06-29,True,330.0
+63424,Daniel Harris,Savings,18244.66,9,Connecticut,2023-10-04,True,487.0
+24558,David Chang,Savings,98858.97,5,Hawaii,2024-01-21,True,
+37463,Shelly Mccarthy,Checking,59713.79,46,New Jersey,2022-01-06,True,
+9939,Rebecca Sanders,Savings,27272.2,35,Virginia,2024-01-19,False,
+31402,Cheyenne Winters,Savings,62644.59,26,Massachusetts,2023-04-13,False,677.0
+45008,Julia Ross,Savings,15873.99,30,Arizona,2024-04-25,True,693.0
+81899,Nicholas Johnson,Checking,66984.44,32,California,2024-02-08,True,
+73037,John Miller,Checking,14893.42,33,Alaska,2020-10-02,False,
+11048,Charles Fitzgerald,Credit Card,14137.65,27,Kansas,2023-09-20,True,
+39767,Lisa Brown,Credit Card,14681.91,14,Kentucky,2024-06-08,False,391.0
+24780,Madison Hartman,Checking,21651.61,42,Michigan,2024-05-08,False,
+51638,Jon Henry II,Savings,22986.4,6,Idaho,2023-12-04,True,
+99209,Mark Parker,Checking,70070.07,28,Tennessee,2021-01-12,False,
+48933,Sandra Jones,Checking,79914.34,36,Virginia,2025-02-17,False,
+68151,Ashley Preston,Checking,58488.19,40,Nevada,2022-07-04,False,747.0
+81587,Sara Wall,Credit Card,89495.48,23,North Carolina,2021-08-25,False,
+40592,Dana Christensen,Credit Card,1935.15,31,Iowa,2024-04-08,False,
+42816,Kimberly Woods,Checking,8883.1,7,Texas,2022-04-10,True,
+27687,Ashley Wong,Savings,21389.65,45,New Jersey,2024-05-06,True,
+26304,Mrs. Audrey Hayes,Credit Card,36881.86,26,Alabama,2021-09-04,True,
+78095,Lindsey Hernandez,Savings,13152.5,21,Colorado,2021-06-19,True,
+53854,Mr. Douglas Hardy MD,Checking,66837.04,9,Alaska,2022-08-12,False,584.0
+84979,Natalie Bell,Savings,71708.99,38,Kansas,2022-04-14,True,675.0
+87996,Debra Lopez,Savings,99323.9,22,Colorado,2024-11-24,False,446.0
+69694,Eric Mcgee,Savings,34117.92,5,Oklahoma,2021-08-02,True,362.0
+40772,Sarah Davila,Savings,4452.79,21,Kentucky,2020-01-16,True,808.0
+44421,Ronald Evans,Credit Card,6238.22,45,Missouri,2022-09-01,False,
+91101,Jane Parker,Credit Card,71521.06,38,Nebraska,2020-12-23,False,369.0
+90183,Diane Davis,Credit Card,22613.08,36,Alabama,2021-12-30,False,
+98035,Melissa Murphy,Savings,19718.28,40,Oklahoma,2021-05-27,False,
+75333,Patrick Jackson,Savings,24915.69,50,New Jersey,2022-02-23,False,
+78986,Kimberly Figueroa,Checking,85441.43,48,Idaho,2024-06-16,True,
+8389,Zachary Martin,Credit Card,94724.78,36,South Dakota,2021-07-19,True,
+5075,Breanna Haynes,Savings,512.48,44,New Mexico,2020-09-02,True,314.0
+9938,Randy Johnson,Savings,62127.98,26,Vermont,2022-07-02,False,
+65203,Carol Cordova,Savings,29843.41,36,Pennsylvania,2024-08-25,False,810.0
+63910,Grace Sutton,Checking,1157.95,15,Delaware,2023-07-07,True,
+11372,Timothy Simpson,Savings,91812.91,47,Delaware,2020-02-04,True,743.0
+7978,Casey Archer,Credit Card,71841.23,3,Connecticut,2021-03-29,True,
+62324,Nicholas Murray,Checking,18602.06,42,Hawaii,2021-01-07,True,837.0
+65307,David Duncan,Checking,52863.09,44,California,2020-01-08,True,512.0
+2559,Christopher White,Savings,58927.06,46,North Carolina,2023-07-16,False,659.0
+16848,Rachel Harper,Credit Card,29668.29,15,Kansas,2025-02-22,True,566.0
+33829,Charles Jordan,Savings,32770.62,13,Kentucky,2020-03-22,False,617.0
+96758,Brandon Bender,Savings,29230.72,25,South Dakota,2022-04-28,False,777.0
+55717,Natalie Parker,Credit Card,81634.11,45,New York,2022-03-06,True,768.0
+1475,Michael Jones,Checking,51488.93,7,Indiana,2020-10-11,True,
+34233,David Lawson,Checking,17654.95,9,Alabama,2024-09-26,False,
+10625,Curtis Hunter,Savings,76797.74,45,Kentucky,2024-11-27,True,
+49143,Lori Flores,Checking,40915.39,3,Ohio,2024-03-03,True,
+98133,Keith Williams,Checking,60818.45,3,Illinois,2020-11-04,True,
+10563,Tiffany Abbott,Checking,12180.99,48,Tennessee,2022-03-12,True,440.0
+28281,Kevin Reed,Credit Card,90921.35,18,Michigan,2023-12-19,True,
+20098,Yvette Torres,Credit Card,42986.61,35,Indiana,2023-10-03,False,
+57469,Miguel Harrington,Checking,57635.07,9,Vermont,2020-06-20,False,611.0
+18476,Michael Thompson,Checking,87895.28,48,Alabama,2025-02-08,False,331.0
+72462,Carmen Mosley,Savings,81606.26,26,New York,2020-02-21,True,374.0
+76466,Lori Montes,Credit Card,79969.85,7,New Mexico,2023-03-12,True,
+32449,Shannon Garcia,Credit Card,11551.21,34,Virginia,2022-06-09,True,
+9899,Carlos Green,Checking,39017.83,9,Virginia,2022-11-08,True,
+10913,Lawrence Villegas,Savings,38733.57,18,Kentucky,2021-02-21,True,
+79870,Dustin Wells,Checking,21776.06,6,Alabama,2025-01-27,False,
+25902,Jason Hopkins II,Savings,19648.81,37,Idaho,2021-10-02,False,316.0
+75008,Valerie Lee,Savings,81069.6,5,North Carolina,2023-08-04,True,604.0
+74276,Lisa Jones,Credit Card,57009.11,19,North Carolina,2023-01-10,False,373.0
+19252,Bonnie Heath,Checking,57765.62,33,Maryland,2022-09-07,True,
+68370,Adrienne Cain,Checking,46777.75,40,Missouri,2023-09-07,True,456.0
+29110,Bryan Lewis,Checking,19476.17,35,Florida,2022-12-21,True,
+91715,George Shields,Credit Card,47917.86,36,Ohio,2020-03-30,True,692.0
+7899,Lisa Johnson,Savings,86714.29,22,Iowa,2022-08-20,True,816.0
+10275,Alexandra Camacho,Credit Card,91300.11,24,Oregon,2021-08-26,False,431.0
+42604,Adam Nelson,Savings,62672.94,15,South Carolina,2024-06-04,True,715.0
+77745,Colleen Gilbert,Savings,67662.01,36,North Dakota,2022-04-21,False,
+70497,Laura Graham,Credit Card,50356.11,50,Missouri,2024-04-04,True,503.0
+67928,Jennifer Smith,Credit Card,31392.94,38,New Jersey,2022-07-07,False,
+58367,Carlos Mendoza,Savings,58013.43,22,Louisiana,2024-09-22,False,
+292,Amy Johnson,Credit Card,36311.74,38,Nevada,2020-10-28,False,624.0
+37638,Walter Ward,Savings,26542.55,38,California,2021-12-12,False,412.0
+54851,James Brown,Checking,15730.31,35,Oregon,2024-03-18,False,770.0
+34111,Stephanie Miller,Savings,18570.77,6,Connecticut,2024-07-31,False,
+40594,Kyle Hubbard,Savings,26720.28,44,Nebraska,2023-09-15,True,
+64671,Angel Torres,Savings,95396.44,19,Massachusetts,2025-02-08,True,702.0
+58083,Deanna Williams,Credit Card,82860.25,3,Mississippi,2022-09-09,True,
+24768,Alicia Dunn,Checking,61981.81,33,Wyoming,2022-01-10,False,444.0
+93412,Jessica Bishop,Credit Card,32614.38,31,Georgia,2020-12-02,False,736.0
+53628,Kim Kirby,Savings,2004.75,24,Indiana,2024-11-11,False,
+53781,Alison Wilson,Credit Card,82700.35,10,Kentucky,2021-04-19,False,
+95975,Briana Leon,Checking,88373.24,41,Louisiana,2020-01-11,False,
+11620,Gabrielle Fox,Checking,3419.57,3,Pennsylvania,2020-01-27,False,
+14628,Michele Roberts,Checking,87301.13,15,South Dakota,2021-10-08,True,
+38733,Margaret Vasquez,Savings,60946.78,37,New Mexico,2022-01-13,False,
+12703,Geoffrey Arnold,Checking,44605.23,35,Kentucky,2020-09-07,True,
+75297,Charles Martin,Credit Card,11265.83,19,Illinois,2024-07-09,True,602.0
+86240,Yvonne Nelson,Savings,34942.11,12,Texas,2024-01-10,False,
+54561,Alexis Fox,Savings,75995.54,17,Kansas,2023-11-09,True,
+36155,Jason Guzman,Credit Card,21898.69,34,Ohio,2021-01-10,True,
+85858,Valerie Reeves,Checking,81083.98,9,Virginia,2024-04-04,False,
+33588,Andrea Allison,Checking,37973.56,13,Ohio,2022-11-01,True,
+65576,Patricia Estrada,Checking,56995.68,26,Tennessee,2022-09-20,True,
+29237,Nicole Perez,Savings,69274.8,30,Maryland,2024-05-01,False,513.0
+96343,Ian Gibson,Checking,18808.96,8,Indiana,2022-01-08,True,
+49195,Christopher Butler,Savings,78651.87,31,Washington,2023-09-28,False,823.0
+18223,Adam Fry,Savings,11430.51,20,Hawaii,2022-02-07,True,816.0
+7670,Tyler Zamora,Checking,32717.86,49,Iowa,2025-01-27,True,
+39521,Raymond Doyle,Checking,34898.19,29,Maryland,2023-07-13,True,
+13518,Lance Lamb,Savings,36949.78,39,Wyoming,2022-12-06,True,
+40350,Sherry Davis,Credit Card,66791.77,12,Iowa,2022-12-21,False,
+90196,John Suarez,Checking,27278.53,3,Delaware,2021-09-23,True,
+45698,Stacy Graham,Credit Card,37656.15,26,Iowa,2022-11-13,True,
+10691,Joshua Wright,Checking,10477.54,34,Delaware,2024-08-28,True,
+14827,Jessica Brown,Checking,69955.28,39,West Virginia,2020-06-07,False,
+79405,Lisa Collins,Credit Card,11235.46,2,Alaska,2020-10-01,True,
+31420,Dana Williams,Savings,43906.72,18,Florida,2023-08-25,False,652.0
+90802,Daniel Clarke,Savings,78989.95,33,Virginia,2023-06-23,False,
+55338,Robert Joseph,Savings,25061.49,19,West Virginia,2021-03-19,True,385.0
+16705,Heather Coleman PhD,Credit Card,82581.19,48,South Dakota,2024-07-17,True,300.0
+34806,Taylor Webb,Credit Card,10913.1,29,Arkansas,2024-05-17,False,
+64927,Eugene Hayes,Credit Card,34675.26,47,Nebraska,2020-07-03,True,
+67568,Tonya Taylor,Checking,96612.53,32,New Jersey,2023-01-11,True,463.0
+42623,Kerry Brown,Credit Card,27238.44,34,Ohio,2024-09-25,True,837.0
+96353,Rodney Greer,Credit Card,88117.73,5,New Mexico,2021-11-27,False,591.0
+17081,Lindsey Simpson,Credit Card,63610.69,11,Florida,2021-07-09,False,
+17730,Michelle Estrada,Checking,75079.51,42,Arkansas,2022-05-24,True,468.0
+28883,Hailey Williams,Savings,51659.9,2,North Carolina,2024-09-29,True,
+68789,Anthony Vaughn,Savings,49400.39,35,Washington,2020-05-29,False,790.0
+12134,Tyler Flores,Credit Card,72419.9,27,Ohio,2024-07-19,True,
+32742,William Thornton,Savings,95845.96,12,Arkansas,2020-04-22,False,657.0
+28538,Tina Maxwell MD,Checking,62118.41,7,California,2021-04-23,False,
+95877,Melissa Wheeler,Credit Card,64153.69,10,Arizona,2020-11-28,False,
+68776,Miranda Johnson,Credit Card,76303.11,28,North Carolina,2020-09-05,True,
+91098,Brenda Hunt,Credit Card,3621.95,13,Hawaii,2023-05-01,False,806.0
+41365,Michael Briggs,Credit Card,27283.25,31,Montana,2022-06-12,False,718.0
+29650,Mary Rose,Savings,83621.1,6,Hawaii,2025-02-12,True,729.0
+52109,Diana Grimes,Checking,79087.91,50,Wisconsin,2023-12-30,False,605.0
+65159,Brenda Santos,Savings,13004.18,37,Rhode Island,2021-04-09,False,
+7853,Melissa Rangel,Credit Card,29291.18,32,California,2024-03-06,True,598.0
+7927,Renee Schmidt,Checking,43030.93,45,Wyoming,2020-09-19,False,
+1818,Darrell Simmons,Savings,72319.9,8,Kansas,2024-05-19,True,814.0
+98274,Cathy Krueger,Savings,26881.73,47,Rhode Island,2023-11-07,False,600.0
+61679,Lisa Perkins,Checking,60169.03,48,Georgia,2021-04-17,False,
+47449,Larry Wilson,Checking,28598.64,7,Alabama,2020-06-05,True,533.0
+75605,Nicholas Erickson,Savings,43576.41,11,Wyoming,2021-09-05,True,
+79508,Thomas Chase,Checking,34665.83,34,Illinois,2021-07-14,False,
+49140,Steven Hess,Savings,27849.05,17,Alaska,2024-05-31,True,514.0
+43838,Andrew Taylor,Savings,18882.87,25,New Mexico,2024-05-01,True,
+73276,Justin Armstrong,Checking,60429.61,16,Rhode Island,2021-09-30,True,396.0
+61681,John Gardner,Savings,58725.46,29,New Jersey,2021-05-22,False,
+37539,Megan Jones,Credit Card,58817.77,6,Texas,2022-07-22,True,
+19594,Kevin Wagner,Credit Card,96634.06,46,Nevada,2021-02-04,False,708.0
+36321,John Jennings,Checking,85164.08,30,North Carolina,2020-09-19,False,
+64438,Joseph Hudson,Credit Card,23250.62,39,Michigan,2021-11-25,True,327.0
+5856,Chase Robinson,Checking,98750.15,5,Minnesota,2023-03-11,False,
+37708,Mary Harding DDS,Credit Card,61589.9,34,Maine,2021-12-29,False,724.0
+59569,Juan Price,Savings,23329.36,3,Illinois,2020-04-12,False,
+70430,Marissa Mccoy,Credit Card,43870.5,7,Iowa,2020-09-12,False,703.0
+2857,Alicia Smith,Credit Card,87321.61,31,Kentucky,2024-07-27,True,
+51211,Erica Hamilton,Credit Card,98191.34,18,Maine,2022-10-06,False,
+46259,Nicholas Holland,Credit Card,10798.94,38,Missouri,2022-11-12,False,
+47937,Carl Finley,Savings,49086.8,35,Kentucky,2021-07-06,False,342.0
+94379,Pamela Tucker,Checking,7956.62,47,Oklahoma,2022-02-02,False,715.0
+24024,Steven Cole,Savings,50606.58,27,Connecticut,2024-12-15,False,615.0
+63232,Kaylee Williams,Savings,60652.05,37,Pennsylvania,2020-01-20,False,568.0
+34704,Richard Barrett,Savings,31171.88,47,Hawaii,2022-03-18,True,
+96159,Terri Brown,Savings,76084.17,15,Vermont,2021-04-30,False,510.0
+30778,Tina Mcdonald,Credit Card,24770.7,3,Arkansas,2022-10-10,False,
+96250,Patricia Stuart,Savings,14131.74,43,New Hampshire,2022-03-12,True,778.0
+57253,Jessica Reed,Credit Card,55675.61,24,Florida,2023-04-29,False,486.0
+94108,Tanner Williams,Checking,84707.95,37,Illinois,2022-01-08,False,
+31500,Brian Mccarthy,Savings,82263.64,42,Delaware,2020-05-17,True,
+99729,Rebecca Stafford,Credit Card,59536.5,15,Colorado,2020-11-23,True,382.0
+37621,Casey Riggs,Checking,48360.01,41,Montana,2021-01-09,False,
+5978,Jennifer Brown,Credit Card,36354.47,8,New Jersey,2023-11-07,False,425.0
+58209,Ronald Anderson,Savings,75821.48,28,Pennsylvania,2020-05-29,True,
+30800,George Williamson,Savings,53193.29,7,Nevada,2025-03-19,True,576.0
+89549,Spencer Watts,Checking,55221.92,20,North Dakota,2020-06-27,True,532.0
+52692,Richard Cox,Checking,78583.51,6,Iowa,2023-03-30,False,733.0
+33814,Patricia Underwood,Savings,69640.96,45,Oregon,2021-06-23,False,
+95797,Thomas Davis,Savings,34572.22,34,Alabama,2021-03-13,False,
+66145,Charlotte Cooper,Credit Card,65407.4,22,Illinois,2025-03-07,True,585.0
+32500,Mr. Jonathan Short,Savings,19008.36,5,Ohio,2022-12-10,True,548.0
+78854,Crystal Combs,Checking,34846.98,25,Arkansas,2020-07-18,False,754.0
+31989,Christy Chan,Savings,81435.84,14,Arkansas,2022-09-06,True,527.0
+5184,Mary Wise,Checking,64272.87,9,Virginia,2022-03-15,True,
+61701,Kevin Long,Credit Card,88608.08,1,Nebraska,2023-01-19,False,300.0
+64718,Logan Bryant,Checking,76062.11,6,Nevada,2021-08-15,True,
+29328,Stephanie Coleman,Checking,61743.87,18,Florida,2024-10-02,False,583.0
+95601,Don Wood,Checking,71150.87,8,Rhode Island,2022-02-23,False,
+61978,Shawn Waller,Credit Card,99906.27,30,Alaska,2024-06-21,False,715.0
+24143,Darrell Garcia,Checking,10932.93,26,Tennessee,2024-07-21,False,
+63248,Theresa Rangel,Savings,26187.08,38,Wisconsin,2022-12-17,True,704.0
+30084,Daryl Giles,Checking,26355.69,35,Connecticut,2020-07-09,False,
+9452,Mrs. Vanessa Medina,Checking,46171.18,32,North Dakota,2021-11-09,False,714.0
+85786,Mike Stewart,Savings,84961.3,3,Arkansas,2021-02-18,False,
+91965,Lori Howard,Checking,83245.65,36,New York,2021-01-01,False,
+38375,Krista Wolfe,Checking,70711.41,6,Oregon,2024-06-01,False,
+48827,Michael Lester,Checking,41049.43,4,Washington,2022-05-08,True,
+62724,Miss Misty Hernandez,Checking,49669.66,9,New Mexico,2020-12-16,False,
+76725,Mark Garrett,Checking,42411.64,13,Washington,2023-03-25,True,404.0
+23588,Mark Daniel,Checking,24986.16,39,New Hampshire,2024-08-23,True,759.0
+82170,Nicholas Jackson,Checking,85291.83,40,West Virginia,2021-09-01,False,
+16134,Jessica Love,Savings,31145.15,49,Illinois,2024-10-21,True,625.0
+83047,Kristin Jenkins,Credit Card,68591.7,23,Montana,2025-02-01,False,578.0
+7517,Darrell Moss,Checking,1249.21,45,New Mexico,2024-08-16,False,
+46402,Brian Meza,Credit Card,38627.17,1,South Dakota,2022-11-29,False,728.0
+70216,Richard Johnson,Checking,88465.96,14,Georgia,2021-08-31,True,
+60274,Michele Smith,Checking,62950.46,14,New Mexico,2024-05-24,False,602.0
+5343,Scott Lopez,Checking,18641.25,48,Illinois,2023-06-28,False,619.0
+84050,Anthony Weaver,Credit Card,90154.13,40,Louisiana,2021-03-08,True,
+39478,Amy Bullock,Savings,1866.08,5,Virginia,2022-12-23,True,609.0
+73662,Jordan Douglas,Savings,16694.14,16,Maine,2024-10-08,False,
+74903,Daniel Rivers,Credit Card,65075.08,22,Minnesota,2020-08-19,True,630.0
+37810,Ronald Barajas,Savings,26568.43,48,South Dakota,2023-11-09,False,
+30000,Kyle Richardson,Checking,82920.55,36,Missouri,2020-07-15,False,585.0
+18611,Sara Miller,Credit Card,11926.7,18,South Carolina,2020-03-24,True,
+98091,Hannah Hill,Credit Card,27744.1,17,Oklahoma,2020-07-29,True,711.0
+72502,Michelle Jones,Checking,90175.28,3,Kansas,2024-10-19,True,
+57375,Robert Hudson,Credit Card,27157.25,4,Nevada,2024-05-16,True,
+61494,Joshua Sharp,Savings,55688.72,6,Massachusetts,2020-12-23,False,
+33252,Sandra Woodard,Savings,1716.66,21,Illinois,2024-05-05,False,
+66383,Gregory Smith,Credit Card,10899.16,10,Idaho,2025-03-19,False,684.0
+97633,Carlos Hale,Credit Card,54695.27,30,North Dakota,2022-10-15,True,
+25466,Amy Calderon,Savings,45037.69,20,Pennsylvania,2022-06-20,False,
+74400,Daniel Robinson,Savings,45488.76,19,Washington,2024-02-03,True,
+33405,Christina Jenkins,Savings,19192.65,11,North Dakota,2022-08-15,False,
+38483,Leon Macias,Credit Card,12291.24,11,Maine,2025-02-08,False,837.0
+968,David Parker,Savings,86857.11,27,New Hampshire,2023-12-07,False,578.0
+16489,Teresa Pierce,Savings,54963.67,15,Oregon,2021-08-09,True,
+63166,Lauren Henry,Credit Card,51546.28,47,Wisconsin,2021-02-03,True,
+71505,Kevin Saunders,Checking,86993.89,26,Mississippi,2021-08-23,False,411.0
+58280,Angela Hale,Checking,82927.05,14,New Hampshire,2023-03-17,False,590.0
+94406,Casey Cooper,Savings,98483.6,39,West Virginia,2020-10-18,True,341.0
+12341,Mike Myers,Savings,89910.05,14,Rhode Island,2024-05-13,False,
+48007,Joseph Sanchez,Checking,25269.26,9,Texas,2023-10-20,False,732.0
+17623,Edward Grant,Savings,97887.39,28,Alabama,2024-04-22,True,827.0
+75470,Kevin Peck,Checking,36050.11,17,Iowa,2023-03-16,False,563.0
+53159,Robert Stewart,Savings,32122.68,4,Oklahoma,2020-11-06,True,
+60857,Ms. Julia Jackson,Checking,2994.6,14,Montana,2020-03-04,False,571.0
+98654,Heidi Cruz,Credit Card,20806.64,6,Montana,2022-05-25,False,361.0
+51976,Lindsay Cortez,Credit Card,93982.45,44,Louisiana,2024-06-07,False,378.0
+43088,Andrew Calhoun,Savings,35403.22,21,West Virginia,2020-02-25,False,334.0
+20767,Trevor Flores,Credit Card,9931.13,37,Texas,2021-10-04,True,
+63421,Dominic Gray,Credit Card,32927.15,34,Pennsylvania,2024-08-22,True,
+49384,Sydney Burns,Savings,56361.92,26,Hawaii,2021-03-06,True,
+65166,Steven Rodriguez,Credit Card,86531.3,45,Washington,2022-10-24,True,749.0
+96939,Julia Caldwell,Savings,44056.25,14,Oklahoma,2025-03-20,False,
+55738,Mary Wheeler,Savings,79289.48,6,South Dakota,2023-06-24,True,
+33583,Jessica Ford,Credit Card,59324.66,4,New Mexico,2023-09-13,False,
+53242,Julie Christensen,Savings,85518.65,10,Montana,2024-07-12,False,812.0
+68,Melissa Delgado,Checking,97607.89,4,Kentucky,2021-07-08,True,822.0
+79139,Russell Bush,Checking,38867.98,23,Delaware,2024-05-24,False,832.0
+67158,Jordan Suarez,Savings,63539.97,10,Massachusetts,2021-02-27,True,414.0
+28963,Larry Watson,Savings,79757.27,17,Texas,2021-11-14,False,
+52933,Michael Trevino,Credit Card,65070.87,8,Utah,2020-06-28,False,
+47108,Aaron Murray,Savings,14876.55,19,Georgia,2024-01-28,True,
+23473,Mark Wilson,Savings,93263.29,42,Missouri,2020-11-01,False,
+81207,David Shannon,Credit Card,65807.41,27,Alaska,2020-03-28,True,
+79860,Christina Patterson,Savings,22288.19,25,Missouri,2023-12-08,True,
+30648,Vickie Dixon,Savings,61416.8,20,Texas,2020-04-02,True,771.0
+34393,Martin Cox,Savings,16130.41,23,West Virginia,2024-08-24,True,570.0
+65768,Kari Wilson,Credit Card,48476.39,7,Maine,2024-04-13,False,839.0
+11738,Michael Jones,Credit Card,39802.07,23,Colorado,2021-03-08,True,
+95869,Andrew Marshall,Checking,53895.41,28,Missouri,2021-07-11,True,
+52845,Christopher Santana Jr.,Savings,89705.64,40,Alabama,2020-10-25,True,777.0
+92356,Fred Jones,Checking,95377.0,38,Alabama,2024-12-15,True,663.0
+71405,Shannon Schultz,Savings,92564.45,30,Maine,2024-05-23,False,601.0
+14572,Derrick Smith,Checking,28984.46,37,Oregon,2022-08-25,True,708.0
+54587,Clinton Garza,Checking,93017.69,4,Oklahoma,2021-08-25,False,
+70052,Jennifer Decker,Savings,26389.3,35,Michigan,2021-12-31,False,644.0
+98400,Cassandra Thornton,Checking,55121.76,33,Maryland,2022-06-24,False,
+78332,Lisa Sanders,Savings,82004.34,37,North Dakota,2021-09-20,True,
+2805,Kyle Payne,Checking,52600.21,23,Rhode Island,2020-07-14,True,
+75635,Gregory Castro,Credit Card,69342.54,3,Florida,2022-05-29,False,
+17330,Keith Reynolds,Savings,50083.61,12,Virginia,2021-12-18,True,475.0
+1295,Douglas Gutierrez,Savings,87281.18,25,Vermont,2023-07-23,True,
+88901,Marilyn Cook,Credit Card,82473.84,30,Rhode Island,2022-05-08,False,
+55868,Michael Cain,Checking,60934.2,45,Illinois,2022-04-23,True,
+40796,Carl Le,Checking,47036.62,38,Texas,2024-09-27,False,558.0
+75642,Jonathon Carroll,Savings,25953.76,38,Nebraska,2023-05-30,True,830.0
+26962,Jeremy Manning,Savings,88174.0,49,New Jersey,2020-01-08,False,
+54746,Dominique Arnold,Credit Card,31712.71,45,Louisiana,2021-07-16,False,823.0
+75231,Brittany Deleon,Credit Card,32696.47,18,Alabama,2025-01-31,False,
+28041,Alexis Smith,Savings,12094.43,40,Tennessee,2025-01-11,True,844.0
+24942,Mary Lane,Credit Card,81309.1,21,Georgia,2023-08-05,True,
+42255,Lori King,Credit Card,63395.28,40,Maryland,2020-11-08,True,
+64786,George Jones MD,Credit Card,77190.73,1,Georgia,2021-07-08,True,845.0
+39066,Michelle Jackson,Savings,20362.03,26,Michigan,2023-09-25,False,663.0
+38951,Bethany Mullins,Checking,59866.69,38,Georgia,2021-04-27,True,518.0
+27914,Tamara Boone,Savings,24963.65,48,Alaska,2024-08-26,True,578.0
+21572,Harry Bird,Credit Card,56191.72,31,Delaware,2025-02-09,False,800.0
+3938,Rhonda Morales,Savings,33707.96,2,Oklahoma,2020-05-18,False,395.0
+18848,Tim Collins,Credit Card,3348.32,49,Maine,2023-01-04,False,559.0
+16593,Alicia Brown,Savings,19017.06,11,North Carolina,2023-03-06,True,
+24917,Tiffany Jones,Savings,27651.01,8,Georgia,2024-04-01,False,
+419,Julia Vance,Savings,9093.43,12,Tennessee,2022-10-31,True,733.0
+64000,Rebecca Holt,Savings,56165.2,16,West Virginia,2024-02-05,False,
+63269,Pamela Watts,Credit Card,54341.25,31,North Carolina,2023-05-28,False,463.0
+23231,Keith Davis,Savings,58264.98,1,Connecticut,2023-12-24,True,
+19954,Courtney James,Savings,60165.84,18,New York,2023-05-07,False,
+96992,Mariah Higgins,Checking,31494.6,47,New Jersey,2024-11-27,True,516.0
+56597,Leroy Rivera,Credit Card,78382.02,10,Wyoming,2022-07-18,False,572.0
+58534,Kimberly Barnes,Savings,34921.79,6,Arizona,2025-02-08,True,394.0
+16842,Kristin Martinez,Checking,13427.86,47,Alabama,2022-12-09,True,654.0
+4894,Steven Sims,Credit Card,60992.81,15,Mississippi,2024-09-05,True,708.0
+79569,Robin Shaw,Credit Card,41730.15,47,Hawaii,2020-09-18,False,635.0
+89126,Jonathan Horton,Credit Card,97377.78,4,Vermont,2023-12-16,True,
+37542,Christopher Mercado,Checking,83583.0,33,Vermont,2024-02-20,True,804.0
+71728,Joshua Yang,Credit Card,20512.05,46,Florida,2020-08-14,True,
+37312,Marcus Parker,Checking,81964.38,33,New Mexico,2023-06-06,False,657.0
+21453,Amber Roberson,Checking,96732.9,18,Minnesota,2020-07-28,True,383.0
+63540,Linda Rodriguez,Checking,4458.93,8,South Carolina,2020-02-18,False,
+74598,Benjamin Porter,Credit Card,65299.89,47,Texas,2023-12-24,True,
+75616,Michael Thomas,Checking,40449.07,3,Minnesota,2020-07-12,True,628.0
+30250,Melissa Brown,Savings,17066.49,34,Tennessee,2022-03-09,False,312.0
+19065,Brittney Anderson,Credit Card,98720.46,43,New Hampshire,2021-10-19,False,
+80914,Traci Flores,Credit Card,67090.19,13,South Dakota,2023-08-31,True,
+14896,Robert Gutierrez,Checking,84531.34,42,Idaho,2021-12-21,False,
+71565,Victoria Vega,Savings,77010.37,22,Florida,2024-05-25,False,793.0
+54067,Damon Brown,Checking,17890.2,7,Wyoming,2022-04-02,False,403.0
+66323,Joseph Higgins,Credit Card,20555.8,38,Arkansas,2020-01-22,True,409.0
+66699,Amber Smith,Savings,68895.51,24,Oregon,2020-08-01,True,
+37700,Christopher Munoz,Credit Card,64043.92,24,North Dakota,2023-06-08,False,
+61486,Brandon Valentine,Credit Card,9407.24,9,Oklahoma,2024-01-21,False,421.0
+83254,Aaron Rodriguez,Savings,69256.48,38,North Dakota,2024-02-13,True,
+40897,Robert Williams,Checking,80746.57,49,Arizona,2025-01-18,True,
+88576,Bryce Palmer,Savings,84607.13,19,Massachusetts,2022-01-08,True,
+20939,Christopher Noble,Checking,59749.09,17,West Virginia,2020-05-09,True,
+79818,Jacqueline Myers,Savings,58091.78,48,Rhode Island,2021-11-20,True,408.0
+44035,Karen Jones,Checking,13898.8,39,Florida,2020-11-29,True,812.0
+80906,Angela Aguilar,Savings,7858.4,21,Washington,2022-12-22,True,599.0
+2927,Margaret Rivers,Savings,18801.97,18,North Dakota,2020-12-15,False,
+29466,Stephen Kelley,Checking,10391.87,26,Alabama,2023-08-04,True,
+96941,Cristian Rogers,Checking,65272.62,22,Alabama,2024-09-07,True,
+26178,Joshua Davis,Checking,92781.06,10,Virginia,2023-02-12,True,
+60206,Alan Santana,Checking,73980.81,4,New York,2020-07-05,True,761.0
+80459,Susan Williams,Checking,51425.15,5,Kansas,2024-12-06,False,745.0
+41417,Charles Thompson,Credit Card,34389.69,48,Delaware,2023-02-11,True,413.0
+516,Andrew Wright,Checking,44507.05,48,Illinois,2021-05-07,True,
+59106,Karen Walters,Savings,67820.74,14,Delaware,2020-11-01,True,
+29162,Robert Buchanan,Credit Card,48962.39,40,Minnesota,2024-09-20,True,625.0
+54261,Larry Jimenez,Savings,18000.69,26,South Dakota,2021-01-16,True,
+74719,Erica Moore,Credit Card,43150.53,24,Wisconsin,2021-01-07,True,320.0
+63616,Mark Bryan,Savings,47425.34,11,Ohio,2025-01-09,True,
+73723,Hannah Mcbride,Credit Card,39889.1,23,Texas,2020-11-23,False,652.0
+59780,Emily Mason MD,Credit Card,52083.08,2,Illinois,2021-07-30,False,
+36995,Brian Wilson,Checking,32143.84,41,Hawaii,2024-05-01,True,
+45871,Andrew Jimenez,Savings,93903.99,30,Illinois,2020-03-19,True,
+18381,Ashley Wolfe,Checking,95892.26,18,Rhode Island,2020-06-20,True,
+92029,Rebecca Collins,Credit Card,46275.66,30,Rhode Island,2024-06-14,False,
+46646,Douglas Guerrero,Savings,28297.4,23,California,2024-03-30,True,
+25053,Jeffrey Williams,Credit Card,99626.17,27,Missouri,2023-02-19,False,627.0
+80232,Jessica Daniel,Credit Card,53302.79,27,Nevada,2022-02-01,False,380.0
+646,Morgan Torres,Savings,12052.79,22,Oklahoma,2021-09-12,True,608.0
+40207,Leslie Yang,Savings,57207.26,20,Vermont,2023-08-04,True,
+15357,Ashley Ball,Checking,67614.11,20,Oklahoma,2024-05-14,True,
+68726,Alan Mathis,Credit Card,6727.25,11,Rhode Island,2020-08-09,False,306.0
+27228,Nicole Bailey,Checking,75493.64,28,Minnesota,2022-06-11,True,623.0
+56149,Eric Downs,Savings,90855.07,18,Delaware,2023-08-07,False,416.0
+50842,Harry Garcia,Savings,29698.89,7,Indiana,2024-02-21,False,
+67913,Brian Santos,Savings,89331.84,20,Mississippi,2022-09-30,False,
+35604,Christopher Allen,Credit Card,27531.64,1,Alaska,2022-10-07,False,311.0
+38756,Donna Rasmussen,Savings,59509.64,28,New York,2022-05-17,True,
+83078,Andrea Gilbert,Checking,92958.67,36,Indiana,2023-09-06,False,
+70926,Caleb Matthews,Savings,7844.44,20,South Dakota,2022-02-16,True,781.0
+97750,Miguel Shepherd,Savings,1884.14,14,Mississippi,2023-12-01,False,504.0
+6778,Jessica Cooley,Credit Card,76852.69,33,Georgia,2022-07-07,True,346.0
+30801,Miss Molly Sanders,Checking,5738.66,18,Louisiana,2024-02-01,False,
+64165,Cynthia Taylor,Savings,19969.6,3,Indiana,2022-09-17,False,
+12201,Kelly Miller,Checking,92537.18,9,Arkansas,2020-09-14,False,794.0
+67640,Julie Santiago,Credit Card,11442.61,26,Arizona,2024-11-21,False,
+62099,Jeremy Scott,Savings,60195.69,28,Michigan,2025-02-23,True,674.0
+31059,Ronald Blevins,Savings,38959.0,45,New Hampshire,2023-02-01,True,
+22552,Frank Long,Credit Card,23357.36,2,Alabama,2024-10-13,False,702.0
+43299,Douglas Davis,Credit Card,33672.63,9,Connecticut,2020-08-21,False,
+9318,Jeffrey Robinson,Credit Card,32505.51,49,Montana,2023-01-16,False,479.0
+66512,Daniel Young,Credit Card,85744.71,43,Texas,2023-01-27,True,
+42106,Lori Jones,Checking,24229.83,21,Nebraska,2020-12-12,True,426.0
+98789,Spencer Doyle,Credit Card,87353.92,44,Idaho,2023-04-08,False,
+58962,Anthony Hammond,Checking,37035.93,46,Louisiana,2023-01-04,False,
+8690,Natalie Everett,Savings,11931.02,27,Maryland,2023-10-29,False,786.0
+4522,Margaret Holmes,Credit Card,89382.96,45,Georgia,2023-09-05,True,744.0
+63301,Jocelyn Hernandez,Credit Card,26263.32,48,Washington,2021-07-11,True,639.0
+71304,Rodney Gonzalez,Checking,16748.33,32,Rhode Island,2024-11-01,False,411.0
+78555,Lindsey Castro,Savings,43373.51,33,Florida,2021-05-07,True,824.0
+55150,Dustin Blankenship,Checking,21561.41,49,West Virginia,2022-09-04,False,516.0
+49802,Nichole Jordan,Checking,38358.54,26,California,2022-02-25,True,
+93200,Dana Gonzalez,Credit Card,20830.3,47,Arkansas,2021-11-22,False,636.0
+10212,Stacy Benitez,Credit Card,92587.03,45,Missouri,2025-01-16,False,663.0
+38937,Tyler Atkinson,Credit Card,17784.81,14,New York,2020-11-14,True,
+13860,Christopher Kramer,Credit Card,32300.68,6,Kansas,2024-10-19,True,
+63577,Kimberly Leon,Checking,11064.79,47,New Jersey,2024-09-04,False,350.0
+67260,Cameron Scott,Credit Card,9742.35,18,Mississippi,2025-02-20,True,714.0
+76426,Trevor Smith,Savings,34549.26,39,Kansas,2023-12-20,False,
+91119,Diana Webb,Checking,88594.69,15,Maine,2022-11-01,False,
+71522,Tina Allen,Savings,37699.47,21,New Mexico,2024-12-21,False,802.0
+73772,Christopher Nixon,Savings,49292.55,47,New Hampshire,2020-10-11,False,
+48314,Kristen Anderson,Checking,60372.35,11,Arizona,2023-09-24,True,363.0
+99128,Jessica Rivera,Savings,97432.81,20,Florida,2022-02-26,True,427.0
+86084,Molly Miller,Savings,26405.07,31,North Dakota,2021-09-20,True,
+28059,Rose Anderson,Savings,86055.76,27,Virginia,2023-08-29,False,481.0
+77316,Mrs. Christine Johns,Savings,11044.77,41,Louisiana,2024-03-03,False,529.0
+46112,Mackenzie Mitchell,Checking,68236.74,4,Nevada,2021-06-25,False,443.0
+24700,Terry Mitchell,Checking,91757.23,25,New Mexico,2020-01-26,False,
+28632,Jordan Ortiz,Savings,683.65,21,Pennsylvania,2024-10-27,False,677.0
+7846,Michael Nelson,Credit Card,13745.95,12,South Carolina,2024-02-14,True,779.0
+12525,Krystal Cook,Savings,74532.59,31,Illinois,2021-08-06,True,812.0
+70841,Corey Brown,Credit Card,74042.99,4,Tennessee,2020-05-15,False,342.0
+53942,Ernest Colon,Savings,25428.51,21,New Hampshire,2023-08-02,False,
+82577,Donna Walker,Credit Card,4596.25,5,Alaska,2020-02-28,False,796.0
+87322,Michelle Murray,Savings,88771.8,34,West Virginia,2020-06-18,True,
+3646,Amy Bradford,Savings,32163.87,49,Ohio,2024-02-10,True,463.0
+53221,Jonathan Bond,Checking,83401.56,10,Missouri,2023-07-31,True,
+58590,Sydney Obrien,Credit Card,58275.78,43,Louisiana,2020-01-19,False,368.0
+31266,Philip Foster,Checking,91667.82,3,Oregon,2022-03-08,False,
+86857,Michael Price,Checking,99448.87,6,Iowa,2021-08-27,True,600.0
+30031,Rachel Collins,Credit Card,83141.82,9,Arizona,2022-06-13,False,461.0
+65920,Randy Moore,Credit Card,76750.14,36,West Virginia,2020-11-13,False,
+87668,Jacob Merritt,Checking,8443.55,18,Rhode Island,2023-06-10,False,440.0
+44879,Jennifer Fitzgerald,Savings,9691.07,43,Delaware,2022-04-05,False,315.0
+28910,Jeff Campbell,Credit Card,48386.57,4,South Dakota,2020-01-27,True,574.0
+28552,Dawn Wilson,Credit Card,95837.61,15,Connecticut,2023-07-18,True,329.0
+9959,Christopher Guzman,Credit Card,92069.6,24,Oregon,2021-06-05,True,
+55454,Alan Ferguson,Checking,46756.22,47,Florida,2020-09-27,True,
+63404,Dale Wade,Credit Card,79658.4,44,Kansas,2022-07-03,True,
+39816,Douglas Brewer,Savings,32704.01,40,Louisiana,2022-10-04,True,629.0
+78923,Katherine Allen,Savings,95311.44,21,Wisconsin,2023-04-29,False,701.0
+1304,Sierra Jackson,Checking,38493.94,47,New Mexico,2020-07-10,True,
+57477,Nichole Reyes,Savings,62737.82,50,Oregon,2022-01-07,True,572.0
+48976,Teresa Small,Savings,63841.65,33,South Carolina,2025-02-09,False,827.0
+39615,Heidi Clark,Credit Card,60219.51,27,Florida,2022-03-25,True,
+88413,Elizabeth Berry,Savings,92849.13,12,Montana,2023-03-18,True,398.0
+60938,Sharon Murray,Savings,39125.01,17,Massachusetts,2020-09-30,True,
+80167,Amy Long,Savings,42099.87,4,Alabama,2022-10-22,False,709.0
+61566,Kim Hill,Credit Card,60573.61,27,Oregon,2020-04-26,False,
+32684,Melissa Smith,Checking,11052.61,30,Nevada,2021-06-14,False,450.0
+26818,Sandra Hayes,Credit Card,13631.54,27,New York,2021-10-01,False,
+6584,Jose Graham,Credit Card,43967.6,31,Minnesota,2021-11-16,True,506.0
+1852,Mr. Timothy Whitehead,Credit Card,36814.57,15,Vermont,2021-03-28,False,310.0
+75318,Linda Clayton,Credit Card,98691.14,32,Delaware,2022-10-29,True,645.0
+9401,William Hoffman,Savings,51497.86,5,Louisiana,2021-04-30,True,312.0
+51683,Lisa Velazquez,Checking,58096.02,7,Oregon,2020-04-10,True,752.0
+26690,Heather Torres,Checking,15335.86,34,Nebraska,2023-07-25,True,
+13389,Jimmy Hopkins,Savings,14763.72,4,Illinois,2022-06-11,False,
+45922,Shirley Kaufman,Credit Card,21865.31,47,Pennsylvania,2024-10-23,False,335.0
+91548,Amanda Smith,Checking,2022.95,29,New Hampshire,2023-08-22,True,725.0
+55839,Paul Humphrey,Savings,18321.79,20,New York,2021-12-06,True,
+25109,Dustin Jones,Credit Card,92452.19,44,Delaware,2022-08-26,True,339.0
+47060,Richard Phillips,Savings,57982.66,39,South Carolina,2023-03-29,False,794.0
+87630,Samantha Smith,Checking,58765.13,4,West Virginia,2020-05-17,False,483.0
+60185,Julia Villarreal,Credit Card,30157.94,19,Vermont,2021-04-10,False,
+59011,Mr. David Jordan,Checking,29485.18,48,Illinois,2024-05-14,False,
+44696,Andrew Johnson,Savings,68747.5,29,Idaho,2021-10-17,True,
+6707,James Banks,Checking,18092.89,1,Minnesota,2021-06-10,True,715.0
+32678,Sarah Ford,Credit Card,49491.74,40,New Mexico,2022-08-16,False,725.0
+94786,Jeffery Taylor,Credit Card,67470.62,1,Arkansas,2024-07-24,True,552.0
+84346,Daniel Bailey,Credit Card,74043.6,14,Vermont,2025-01-10,False,
+72763,Sarah Watts,Savings,98490.3,14,Virginia,2020-11-06,True,
+90538,Shaun Martin,Credit Card,75635.33,40,Maryland,2024-09-25,False,
+58996,Karen Rodriguez,Savings,70426.1,36,New Jersey,2024-08-19,False,
+64167,Michelle Pugh,Credit Card,9042.91,8,Vermont,2023-10-29,True,711.0
+59794,Mike Stark,Checking,97207.99,29,North Carolina,2022-10-25,True,671.0
+74641,Gary Snow,Checking,63000.09,38,Vermont,2021-06-23,True,
+2479,Adam Carr,Credit Card,45417.52,1,Nevada,2020-04-14,False,333.0
+73160,Joseph Pierce,Credit Card,44545.73,13,Utah,2023-02-24,False,
+73246,Hector Davis,Savings,88763.62,8,West Virginia,2023-03-10,False,
+36176,Lindsey Villarreal,Savings,5966.31,2,West Virginia,2024-01-13,True,679.0
+11149,Stanley Hall,Savings,80448.61,28,Oregon,2022-10-22,False,
+27207,Susan Hubbard,Savings,32366.26,33,Vermont,2021-06-04,False,802.0
+57,Kyle Oneal,Savings,64632.05,39,Arizona,2020-07-18,False,467.0
+74416,Pamela Brown,Savings,70655.44,19,Wisconsin,2020-03-21,False,534.0
+56489,Kimberly Nicholson,Savings,4919.48,44,Pennsylvania,2021-10-21,True,324.0
+29686,Sherry Moran,Credit Card,34840.82,12,Alaska,2021-11-16,False,
+14654,Stacey Forbes,Savings,10008.2,35,Mississippi,2024-01-12,False,
+11241,Tina Smith,Credit Card,24859.55,47,Maryland,2024-06-27,False,719.0
+7612,Thomas Fitzpatrick,Credit Card,64563.35,18,Massachusetts,2022-05-06,False,423.0
+62282,William Rivera,Credit Card,49470.5,31,Colorado,2023-10-21,False,
+93010,Brittany Greene,Checking,43020.44,20,Utah,2023-06-07,True,
+68680,Sarah Baldwin,Savings,58685.05,31,South Dakota,2022-12-01,True,
+40300,Melissa Mccall,Savings,71622.1,2,Michigan,2020-11-28,False,
+25847,Tracy Garcia,Checking,14570.3,33,Georgia,2023-08-17,False,
+80413,Meghan Dawson,Savings,27947.98,8,Rhode Island,2023-08-28,False,
+32169,Bryan Powell,Credit Card,92548.0,12,Arkansas,2020-06-30,False,
+28945,Joshua Reynolds,Savings,82689.93,25,Wyoming,2024-02-22,False,
+21098,Steven Barnett,Credit Card,32001.12,26,Connecticut,2022-10-11,True,
+2515,Keith Stokes,Savings,33832.94,17,Colorado,2020-01-21,True,
+39800,Rebecca Hernandez,Credit Card,64706.61,6,Texas,2023-10-27,False,
+29217,Joshua Preston,Checking,83003.62,13,Idaho,2022-03-20,True,
+73140,Mr. Todd Porter,Savings,76194.72,29,Delaware,2023-09-19,True,
+99764,Donald Graham,Savings,15532.03,4,Maryland,2021-04-09,True,425.0
+67737,Patrick Garcia,Credit Card,65543.73,26,Ohio,2021-10-28,True,552.0
+91853,Randy Ray,Checking,93462.84,4,Montana,2020-08-24,False,
+88025,Alexander Taylor,Checking,98687.13,45,Michigan,2023-09-19,False,809.0
+47381,William Richmond,Credit Card,16622.13,9,Connecticut,2022-04-17,True,
+99421,Alexander Gordon,Checking,57868.45,8,Georgia,2024-07-04,False,815.0
+52107,John Neal,Credit Card,57999.81,2,South Dakota,2021-03-03,False,
+69606,Eric Anderson,Credit Card,87738.15,22,Colorado,2024-07-15,False,
+53444,Sabrina Smith,Credit Card,10640.36,43,New Jersey,2021-06-04,False,
+7714,Casey Hoover,Savings,1513.44,20,Delaware,2020-06-21,True,
+43281,Miss Leslie Mendez MD,Savings,76965.95,6,West Virginia,2025-03-12,False,
+39350,Nicholas Cantu,Checking,62482.58,4,Hawaii,2021-07-05,True,809.0
+36295,Bianca Williams,Savings,30208.88,31,Minnesota,2024-05-16,False,423.0
+12709,Dr. Leslie Kelley MD,Checking,87523.17,33,West Virginia,2025-02-12,True,814.0
+73181,Nichole Sullivan,Credit Card,29221.37,37,Maryland,2023-11-03,True,
+5374,Jeanette Smith,Savings,89928.39,39,Wisconsin,2020-03-14,False,639.0
+88915,Lisa Grant,Savings,17662.32,2,Wisconsin,2020-09-09,True,666.0
+51733,Cole Villanueva,Credit Card,36431.95,38,Idaho,2020-01-28,True,456.0
+52979,Cassidy Scott,Savings,85698.47,12,Utah,2020-12-30,False,
+40377,Deanna Brown,Credit Card,50370.82,17,Wisconsin,2024-06-30,True,
+35360,Ricky Owens,Credit Card,41551.39,13,Kansas,2020-05-28,False,
+88880,Bradley Morales,Credit Card,5010.73,7,Utah,2021-03-26,False,568.0
+70267,Gina Simpson,Checking,59252.08,32,Florida,2022-11-16,False,
+43626,Ashley Nelson,Savings,53916.67,18,Delaware,2024-11-09,True,
+96546,Robin Stanton,Savings,21747.24,16,Washington,2024-10-01,True,733.0
+56772,Matthew Chapman,Checking,33828.77,21,Michigan,2024-03-06,False,
+1981,Matthew Smith,Credit Card,66328.9,15,South Carolina,2022-10-20,True,662.0
+63131,Jeremy Fleming,Credit Card,35321.68,29,Oregon,2024-02-25,False,
+4152,Mathew Guerra,Savings,90995.62,25,Nebraska,2024-09-08,False,
+91747,Michelle Morgan,Savings,62821.61,5,California,2020-04-18,True,705.0
+66894,Jose Brewer,Checking,59275.59,12,South Dakota,2025-03-10,False,535.0
+66985,Jessica Powers,Checking,49515.03,42,West Virginia,2022-12-03,True,745.0
+68646,Anna Saunders,Savings,31016.84,7,Rhode Island,2024-03-26,True,342.0
+16452,Vanessa Lewis,Credit Card,73751.05,11,Vermont,2021-07-27,True,742.0
+36016,Ashley Hartman,Checking,18351.99,42,Maryland,2022-06-08,True,
+40017,Megan Townsend,Credit Card,31438.26,22,West Virginia,2022-11-28,True,511.0
+62277,Andrew Morales,Checking,19332.94,29,Pennsylvania,2020-02-26,False,769.0
+99881,Tanya Lawson,Savings,34567.13,36,North Carolina,2023-02-12,True,
+22673,Ethan Smith DVM,Savings,58279.62,23,Georgia,2023-04-30,True,
+76897,Andrew Short,Savings,34507.36,36,Georgia,2022-02-14,True,640.0
+61313,Victor Gordon,Credit Card,22906.8,9,California,2020-05-13,False,558.0
+57531,Matthew Evans,Savings,72570.22,39,California,2021-04-23,True,665.0
+87169,Karen Garcia,Savings,64905.88,38,Mississippi,2022-10-31,False,696.0
+6723,Felicia Chang,Credit Card,51460.54,3,Mississippi,2022-10-10,False,
+19754,Michael Burnett,Savings,40955.15,48,Rhode Island,2021-07-26,False,
+82805,Dana Shaw,Savings,42342.3,3,North Dakota,2024-07-06,False,
+53394,Erin Johnson,Credit Card,14572.0,46,Illinois,2021-02-01,True,659.0
+62203,Sara Brown,Credit Card,98286.57,9,Alabama,2020-07-10,False,
+91607,Darrell Ramsey,Credit Card,67613.71,42,Washington,2024-11-02,True,
+98246,Joshua Mack,Savings,44914.71,32,West Virginia,2023-10-05,True,334.0
+92183,Mrs. Kimberly Walker MD,Credit Card,10446.75,24,Massachusetts,2020-11-03,False,615.0
+24270,Bryan Long,Checking,48788.99,47,Rhode Island,2024-05-16,False,804.0
+30917,Pamela Schwartz,Checking,98299.93,2,Alabama,2020-06-21,False,
+83808,Kaitlyn Freeman,Checking,34582.25,16,Arizona,2022-08-26,False,
+34016,Mitchell Cooper,Credit Card,84431.69,6,Nebraska,2023-06-16,False,
+71864,Michele Perry,Checking,73264.75,26,California,2021-09-03,True,
+67986,Sandra Rogers,Checking,61410.02,6,Maryland,2024-02-23,False,459.0
+5797,Jennifer Wright,Credit Card,31931.36,28,North Carolina,2024-09-21,True,
+84001,Helen Cox,Credit Card,98307.2,22,Delaware,2024-12-19,True,
+37024,Andrea Munoz,Savings,29381.76,44,Maine,2025-01-03,False,415.0
+77065,Miss Patricia Jackson,Credit Card,33641.2,5,Vermont,2022-03-26,True,411.0
+477,Amy Drake,Savings,27905.65,15,Michigan,2025-03-02,True,
+54403,Kelly Jones,Savings,61765.59,19,Alabama,2022-12-25,True,
+5527,Grant Powell,Credit Card,29629.57,29,Arizona,2024-10-17,False,409.0
+14340,Lindsay Bradley,Checking,34032.64,40,Maryland,2022-05-25,False,474.0
+35969,Gregory Nash,Credit Card,38206.53,49,Kansas,2024-09-28,True,815.0
+98547,Tyler Gray,Credit Card,33674.36,44,Illinois,2022-11-15,True,399.0
+6637,Autumn Huang,Credit Card,32409.21,6,Nevada,2023-04-11,False,670.0
+70031,Monica Blevins,Savings,38150.72,15,North Dakota,2024-11-21,False,698.0
+92603,Angela Ellison,Credit Card,37535.75,27,Missouri,2024-09-12,False,837.0
+35721,Tara Carr,Checking,22979.67,10,Rhode Island,2022-05-25,True,
+2388,Dustin Butler,Savings,38339.7,40,Massachusetts,2021-10-27,True,404.0
+57592,Joshua Valenzuela,Savings,87887.09,2,Colorado,2024-08-16,False,699.0
+41888,Craig Ellison,Savings,52362.41,12,Tennessee,2021-11-01,True,
+19587,Holly Green,Checking,77696.19,2,Virginia,2024-09-18,False,
+71511,Rachel Simon,Savings,72734.82,38,Alaska,2020-03-06,True,765.0
+70570,Rachael Terrell,Savings,30537.73,13,Nebraska,2024-12-16,False,
+27852,Heather Patterson,Savings,96548.56,39,New Hampshire,2020-10-18,True,
+46205,John Bradley,Savings,23442.46,14,Rhode Island,2022-11-29,True,
+51656,James Fernandez,Savings,57521.19,34,Texas,2021-05-20,False,314.0
+32936,Thomas Dodson,Checking,83009.23,39,Missouri,2024-07-05,False,
+81258,Cody Casey,Savings,14938.19,45,North Carolina,2020-05-21,False,517.0
+27602,Christian Chaney,Checking,17785.53,19,Kansas,2021-01-27,False,591.0
+82491,Jacqueline Evans,Checking,58953.88,33,Oregon,2022-05-20,True,597.0
+44510,Lindsey Ross,Credit Card,73714.87,35,South Carolina,2023-06-03,True,397.0
+46982,Danielle Kent,Checking,29161.92,33,West Virginia,2025-02-01,False,
+86293,Scott Banks,Credit Card,86990.25,7,Alaska,2021-05-28,False,556.0
+87243,Jennifer Sherman,Credit Card,48904.49,16,Kansas,2022-10-19,False,669.0
+49427,Kelly Cole,Credit Card,162.52,32,Arizona,2023-04-09,False,756.0
+46064,Angela Wong,Checking,1050.29,14,Louisiana,2022-07-07,False,408.0
+36192,Susan Haney,Checking,20746.29,26,Louisiana,2020-05-20,False,303.0
+32993,Kendra Ramirez,Savings,50125.03,3,Massachusetts,2024-08-03,True,
+28395,Janet Bolton,Checking,10452.77,47,West Virginia,2021-06-15,False,490.0
+63791,Lauren Moore,Savings,14792.15,3,South Carolina,2023-12-28,True,711.0
+87411,Kelsey Miller,Credit Card,89481.38,23,Alabama,2024-05-04,True,
+48781,Nathaniel Duncan,Credit Card,98259.91,39,North Dakota,2023-08-15,True,658.0
+64269,Jay Richardson,Savings,29630.02,44,Kentucky,2023-11-15,False,
+92022,Douglas Ramirez,Savings,45081.54,19,South Carolina,2024-12-11,False,710.0
+4333,Kenneth Harris,Savings,21090.07,27,Maine,2020-10-09,False,401.0
+5913,Mr. Dave Stevenson,Savings,73751.8,50,New Mexico,2023-10-16,True,
+1495,Thomas Woods,Savings,97009.06,5,Georgia,2022-10-13,False,
+19203,Carlos Wilkerson,Savings,87329.3,35,Illinois,2022-11-02,True,
+40768,Kimberly Jensen,Credit Card,33770.29,33,New Jersey,2022-07-05,True,
+96639,John Singleton,Savings,71546.55,47,Tennessee,2022-01-06,False,367.0
+23257,Sean Burke,Credit Card,27906.14,46,Texas,2025-02-16,False,
+26444,Spencer Oliver,Savings,40330.38,29,New Hampshire,2020-09-09,False,423.0
+10010,James Contreras,Savings,95173.71,44,Maine,2022-07-05,False,
+21676,Christopher Chavez,Checking,64494.03,6,Oklahoma,2024-02-16,False,
+73434,Kimberly Green,Savings,64245.76,18,Arizona,2022-04-06,True,541.0
+64392,Crystal Gutierrez,Checking,24427.34,12,North Dakota,2024-02-02,True,760.0
+11782,Nicholas Walker,Savings,60516.17,17,South Dakota,2022-08-14,True,
+19964,Cynthia Farmer,Credit Card,28950.93,11,Indiana,2022-07-13,False,511.0
+37248,Michael Stevens,Savings,64452.31,2,Iowa,2020-09-03,False,741.0
+83828,Brandy Barnes,Savings,41435.64,47,Florida,2022-07-22,True,504.0
+65911,Claire Patel,Credit Card,91786.62,7,New York,2021-10-15,True,557.0
+54010,Jack Carson,Checking,44791.4,19,Kentucky,2020-11-14,True,
+43867,Lisa Deleon,Savings,47032.58,27,Kentucky,2020-05-18,False,
+48145,Dwayne Brown,Credit Card,13013.75,26,Kansas,2022-11-16,False,705.0
+89273,Isaac Sexton,Checking,97636.46,6,New Hampshire,2025-01-29,True,
+2697,Tracy Cole,Savings,77639.94,4,Arizona,2024-06-13,False,821.0
+76086,Ronald Franklin,Credit Card,19755.62,16,Iowa,2022-04-26,False,
+80862,Rebecca Peterson,Checking,55104.68,50,Oklahoma,2020-03-06,True,
+59859,Stephanie Harper,Checking,1306.79,50,Kansas,2021-12-16,False,
+90926,Kyle Greer,Checking,316.91,48,Arizona,2023-01-12,True,
+34124,Ruben Camacho,Savings,68399.61,29,New Hampshire,2020-12-03,False,
+54568,Rhonda White,Credit Card,20374.12,39,Oregon,2021-10-18,False,
+51739,Ashley Little,Credit Card,96819.26,42,Virginia,2024-10-20,True,
+60033,Ashley Johnson,Savings,35047.76,47,Mississippi,2024-04-28,False,559.0
+13573,Sheila Espinoza,Credit Card,34503.86,4,New Mexico,2023-11-11,True,
+44529,Jason Thomas,Credit Card,29117.81,39,Pennsylvania,2021-08-20,False,
+97552,Zachary Dodson,Savings,86301.07,31,Indiana,2023-08-17,True,
+36080,Courtney Gibson,Savings,71814.28,44,New York,2022-09-10,False,784.0
+66756,John Russell,Savings,21105.14,34,Alabama,2020-07-22,True,588.0
+64967,David Vazquez,Checking,31937.31,14,Nebraska,2020-10-05,False,744.0
+93011,Rose Johnson,Checking,14575.8,41,Louisiana,2021-11-28,False,
+24235,Evan Jones,Credit Card,42681.7,1,Hawaii,2021-03-02,True,494.0
+85232,Diamond Gonzalez,Savings,70735.97,17,Alabama,2022-02-10,True,
+14503,Christopher Kennedy,Credit Card,13069.81,13,New York,2023-02-20,False,
+15119,Derrick Miller,Savings,68737.51,10,Michigan,2024-02-21,False,
+98697,Christopher Morgan,Savings,88186.56,12,Maryland,2023-12-24,False,
+2637,Gregory Harris,Savings,32869.06,10,Maine,2021-05-11,False,636.0
+80000,Rachel Hernandez,Credit Card,28236.58,5,New York,2022-08-08,False,
+35299,Ronald Garcia,Savings,42248.2,29,New Mexico,2024-02-11,True,
+4667,Kelly Wilson,Credit Card,90580.68,33,Texas,2020-11-30,False,707.0
+47627,David Larson,Savings,58673.07,41,Utah,2021-04-30,False,
+64237,Wesley Cruz,Checking,7103.86,15,Vermont,2021-09-20,True,572.0
+51267,Caroline Burch,Savings,46773.35,45,Pennsylvania,2024-09-23,True,357.0
+10492,Antonio Mack,Checking,87526.01,20,Wyoming,2024-04-26,True,621.0
+31334,Miranda Miller,Savings,14849.34,21,Vermont,2024-08-02,True,
+11086,Michelle Wilkins,Credit Card,23740.22,42,West Virginia,2020-09-15,False,521.0
+35810,Carrie Thomas,Checking,90488.23,13,Louisiana,2020-01-11,True,801.0
+48544,Dean Mcdaniel,Savings,35219.7,29,Hawaii,2020-11-03,True,386.0
+11583,John Moore,Checking,6219.85,23,Vermont,2024-08-08,False,
+51144,Mr. Richard Vance Jr.,Credit Card,2668.23,26,Utah,2024-02-01,True,
+50428,Jacob Fitzpatrick,Credit Card,54062.05,41,New York,2025-01-13,True,410.0
+29860,Franklin Marshall,Savings,31297.17,16,Hawaii,2021-10-06,False,605.0
+26058,Joel Hicks,Savings,70229.44,19,Illinois,2023-03-03,True,567.0
+49867,Christy Gray,Checking,72383.81,36,Idaho,2020-05-19,False,
+12668,Brady Romero,Credit Card,94737.61,18,Florida,2022-11-19,False,
+60176,Timothy Owens,Checking,92323.44,2,North Dakota,2024-06-09,False,
+56740,Benjamin Mitchell,Credit Card,86450.88,35,Missouri,2020-09-14,True,340.0
+79190,Barbara Harris,Checking,81584.88,21,Georgia,2022-02-01,True,
+79782,Joshua Hardy,Credit Card,51417.32,24,Minnesota,2022-03-18,False,
+67521,Matthew Jones,Checking,84725.61,36,Kansas,2024-12-22,False,406.0
+3689,Victor Smith,Credit Card,77719.86,21,Pennsylvania,2024-07-18,True,
+19997,John Rivera,Credit Card,17106.56,13,Tennessee,2021-09-13,True,343.0
+67503,Erin Powell,Credit Card,67418.98,33,Missouri,2022-03-06,False,
+20766,Kelsey Robinson,Credit Card,33353.99,35,Ohio,2024-08-26,False,634.0
+78619,James Scott,Savings,75665.58,35,California,2020-02-23,True,
+69200,Lauren Garcia,Checking,43617.95,19,Wyoming,2021-07-18,True,758.0
+18323,Chris Rose,Savings,28197.95,44,Georgia,2020-10-23,True,
+39143,Julia Williams,Savings,841.42,17,Georgia,2021-05-13,True,745.0
+1704,David Castro,Savings,36668.39,16,West Virginia,2024-05-19,False,
+60055,Margaret Hunt,Savings,29915.91,49,Washington,2021-07-11,True,350.0
+86623,Michael Hill,Savings,25730.17,27,Colorado,2023-08-07,False,
+65397,Shannon Gonzales MD,Credit Card,14880.33,24,Colorado,2024-03-15,True,576.0
+37946,Jessica Lee,Checking,52873.34,26,Colorado,2021-10-15,True,
+30349,Ashlee Jenkins,Credit Card,60236.79,1,Colorado,2025-01-22,False,
+9346,Tyler Diaz,Credit Card,32141.76,46,Alaska,2023-10-04,False,808.0
+64002,Brooke Henry,Credit Card,76526.75,4,Alabama,2024-10-23,False,796.0
+54437,Nicholas Gill,Credit Card,75846.29,50,Arkansas,2020-02-18,False,
+76142,Willie Johnson II,Credit Card,27265.69,9,North Dakota,2021-11-17,False,483.0
+48646,Kelli Smith,Credit Card,42436.66,5,New Jersey,2022-03-07,False,
+2700,Alicia Armstrong,Checking,83560.68,44,Maryland,2023-09-13,True,700.0
+14573,Christopher Sullivan,Savings,47275.0,42,Tennessee,2022-10-28,True,
+31562,Amber Martinez,Credit Card,21671.3,44,Maryland,2021-07-29,True,
+84916,Monica Proctor,Checking,47488.19,38,Georgia,2023-05-30,False,
+67390,Timothy Thompson,Savings,58284.99,47,Wyoming,2024-10-23,False,360.0
+7265,Nancy Mills MD,Credit Card,29277.41,23,West Virginia,2024-11-05,True,
+36128,Barbara Schultz,Checking,75193.34,39,Washington,2023-08-10,True,
+61448,Taylor Morgan,Savings,59060.02,48,Nebraska,2023-08-19,True,
+55396,Charles Williams,Checking,46846.24,23,Alaska,2023-04-24,True,
+94517,David Reed,Credit Card,22455.4,44,North Dakota,2023-02-08,False,464.0
+21839,Alexander Foster,Checking,3592.09,49,Alaska,2024-01-22,False,643.0
+29491,Kimberly Ray,Savings,25252.94,25,Alaska,2021-07-20,False,
+81253,Lori Holder,Savings,36524.03,24,Oklahoma,2020-08-03,True,733.0
+76351,Taylor Hernandez,Credit Card,58774.81,7,South Dakota,2024-07-19,False,
+79191,Brian Maddox,Savings,96633.33,30,Missouri,2025-01-10,True,
+4977,Marc Velasquez,Checking,7030.12,25,New Mexico,2021-09-17,False,781.0
+76095,Jamie Henderson,Savings,32726.02,11,South Carolina,2024-01-28,True,
+31664,Brittany Murphy,Checking,84152.0,20,Washington,2024-02-14,True,
+30993,Patricia Frank,Credit Card,75405.33,35,New Jersey,2023-05-15,True,
+98584,Marissa Howard,Credit Card,47636.19,38,Louisiana,2020-12-27,True,639.0
+95326,Catherine Thomas,Checking,51454.64,19,Washington,2023-02-22,True,541.0
+52105,Jamie Snyder,Checking,34532.05,3,Maine,2024-03-14,True,
+59627,Maria White,Credit Card,28922.56,12,Maine,2023-04-26,False,395.0
+16801,Robin Knight,Checking,19129.97,25,Missouri,2024-06-27,False,
+91809,Frank Giles,Checking,57540.73,6,Oklahoma,2024-11-29,True,519.0
+47418,Elizabeth Roman,Credit Card,51713.15,45,Wisconsin,2020-10-02,True,
+43573,Patrick Calderon,Credit Card,81956.79,24,Idaho,2021-01-16,True,538.0
+23610,Douglas Coleman,Credit Card,52700.39,50,Ohio,2021-04-27,False,548.0
+45483,William Quinn,Savings,60352.7,14,Oregon,2024-08-02,True,
+15842,Richard Valentine,Credit Card,39125.11,3,West Virginia,2024-11-20,True,
+64683,Don Holt,Checking,39964.16,24,Connecticut,2023-08-22,True,427.0
+32428,Allen Gomez,Savings,34582.3,29,Montana,2023-03-13,True,390.0
+13278,Ashley Buck PhD,Credit Card,31696.14,9,Arkansas,2022-10-14,True,402.0
+5916,Suzanne Mullen,Credit Card,93769.09,15,North Carolina,2023-10-09,False,350.0
+55844,Thomas Cabrera,Credit Card,88161.33,7,Nevada,2022-07-09,True,
+80988,Jessica Jackson,Checking,29314.59,20,North Carolina,2021-03-31,True,
+75043,Andrea Jimenez,Checking,36898.56,23,North Carolina,2022-12-29,True,
+60883,Kelly Mann,Checking,86204.1,45,Vermont,2022-08-21,True,
+26750,Vanessa Atkinson,Checking,78492.99,50,Connecticut,2024-08-19,True,567.0
+86906,Melissa Norman,Credit Card,3067.89,24,Texas,2021-10-01,True,
+59369,Richard Manning,Credit Card,73729.39,9,Iowa,2020-02-06,True,
+56917,John Reyes,Checking,78013.57,37,Wisconsin,2023-03-08,False,
+92631,Kimberly West,Credit Card,38370.42,50,Idaho,2021-11-04,True,527.0
+48959,Taylor Thompson,Credit Card,87504.47,31,Alabama,2023-05-20,False,563.0
+71581,Richard Lee II,Credit Card,67420.67,45,Alaska,2021-07-14,True,593.0
+30519,Hayden Brown,Checking,39113.2,5,Maine,2024-02-15,True,599.0
+37452,Karen Nguyen,Checking,29345.99,6,Maine,2023-11-15,False,
+70975,Brian Frank,Credit Card,8241.87,45,Michigan,2024-03-21,False,522.0
+65267,Sarah Smith,Savings,97205.26,12,Missouri,2023-12-07,True,464.0
+40092,Pamela Forbes,Savings,11733.91,26,Massachusetts,2021-05-11,False,
+25803,John Clayton,Checking,26168.95,46,South Dakota,2022-02-26,True,342.0
+55225,Mark Craig,Checking,31387.35,23,California,2022-03-15,True,
+21975,Kayla Hughes,Savings,84311.21,49,Maryland,2020-09-16,True,407.0
+89184,Jessica Gay,Savings,26947.74,2,Illinois,2022-08-08,True,526.0
+15403,Jennifer Baird,Credit Card,95979.1,43,Nebraska,2021-11-04,True,715.0
+35706,Benjamin Perkins,Credit Card,33936.38,44,Florida,2023-04-22,True,
+90789,Dawn Johnson,Credit Card,87107.96,47,Illinois,2024-04-21,True,492.0
+63474,Jamie Moyer,Savings,36786.18,42,Minnesota,2024-04-29,False,
+13862,Jason Nguyen,Credit Card,65819.24,20,Minnesota,2024-06-09,True,334.0
+86357,Sharon West,Credit Card,69393.67,15,Minnesota,2022-09-03,True,809.0
+59494,Michelle Ortega,Checking,85013.74,19,Arizona,2023-10-30,True,
+45532,Damon Williams,Savings,96013.87,31,North Dakota,2020-01-30,False,
+11568,Cindy Malone,Credit Card,82761.14,7,New Hampshire,2022-06-17,True,812.0
+32329,Victoria Reese,Checking,29728.65,39,West Virginia,2025-01-08,True,641.0
+75321,David Rogers,Savings,42695.48,32,Wyoming,2022-02-15,True,667.0
+70129,Lori Walker,Checking,66732.61,28,Louisiana,2021-02-27,True,
+35877,Elizabeth Johnson,Credit Card,49698.9,43,North Dakota,2022-06-14,True,769.0
+16498,Casey Cook,Checking,32346.15,6,Alabama,2022-01-03,True,507.0
+714,John Gregory,Credit Card,51054.8,31,Oklahoma,2023-06-02,False,
+57504,Jimmy Long,Savings,13040.09,38,Louisiana,2020-03-19,True,468.0
+86567,Richard Sanders,Checking,16423.06,20,Illinois,2024-04-17,True,
+27078,Dana Martinez,Checking,91907.57,20,Tennessee,2022-09-22,True,479.0
+44208,Jill Hendricks,Credit Card,38217.6,29,Nebraska,2023-11-22,False,507.0
+81720,Tammy Robinson,Credit Card,99112.5,40,Massachusetts,2020-12-07,False,501.0
+1462,Kathleen Kelly,Checking,42830.16,50,Maryland,2022-07-01,True,574.0
+83864,Catherine Gonzalez,Checking,58536.02,35,Iowa,2023-10-29,True,408.0
+41398,Andrew Mcdonald,Credit Card,85351.17,23,North Carolina,2022-09-18,False,
+64802,Melissa Clark,Credit Card,73153.69,30,Oregon,2023-07-29,False,
+39646,Andrew Burns,Savings,3198.81,31,Maryland,2022-10-03,True,
+80159,Teresa Conley,Checking,56046.81,46,Kansas,2024-02-17,True,
+30024,Vanessa Garcia,Checking,58593.1,50,West Virginia,2023-04-22,True,
+64825,Nicole Massey,Credit Card,74851.63,18,Arizona,2020-09-09,False,
+11134,Christopher Brown,Savings,76436.48,19,South Carolina,2024-11-29,False,636.0
+67889,Stephanie Parker,Credit Card,66655.47,43,Mississippi,2023-02-16,False,722.0
+51237,Jeremy Hall,Credit Card,82457.36,3,Montana,2024-03-28,False,
+39554,Patricia Cox,Savings,15398.42,33,Idaho,2021-05-19,False,410.0
+54516,Tony Solomon,Savings,48987.04,15,North Carolina,2020-07-21,True,
+77409,Brent Knight,Checking,92442.08,15,Utah,2023-05-28,False,
+69624,Cameron Nolan,Checking,49733.07,18,Arkansas,2021-10-28,False,506.0
+92526,Stephen Moore,Checking,63638.03,1,Colorado,2020-08-19,True,
+58826,Brandon Young,Credit Card,65364.17,44,Tennessee,2022-02-28,True,733.0
+59144,Lisa Williams,Checking,2424.86,21,Kentucky,2020-12-31,False,
+54500,Richard Ward,Checking,66337.19,32,Maine,2020-03-08,False,
+6717,Eric Kim,Savings,13826.8,17,Ohio,2024-11-06,True,
+87292,Brian Jackson,Credit Card,64782.15,43,Hawaii,2023-07-06,True,
+78557,Jessica Trevino,Savings,68172.47,20,Idaho,2022-03-02,True,
+80689,Jorge Smith,Savings,64598.78,12,Ohio,2021-05-13,True,
+81649,Jon Mendez,Checking,48764.16,25,Utah,2020-09-13,True,
+35823,Jennifer Martin,Savings,3262.69,23,West Virginia,2023-02-11,True,355.0
+71326,Ashley Lewis,Credit Card,31778.39,40,New York,2025-01-07,True,
+13950,William Stout,Credit Card,74897.62,23,Rhode Island,2023-12-07,True,769.0
+91532,Jaime Lawrence,Checking,12876.88,19,South Carolina,2024-02-14,True,
+63308,Andrew Williams,Credit Card,24032.11,14,Texas,2022-09-06,False,846.0
+53163,Robert Leon,Savings,70347.45,15,Hawaii,2024-01-27,False,
+38818,Robert Collins,Checking,50193.46,5,Tennessee,2022-03-23,False,365.0
+38745,Samantha Spears,Credit Card,21035.6,6,Virginia,2021-04-06,True,387.0
+61567,Shannon Allen,Savings,53857.98,8,New Hampshire,2022-04-19,False,
+76910,Nicole Lee,Checking,70075.83,37,Georgia,2023-03-26,False,482.0
+84328,Scott Macdonald,Credit Card,45882.64,38,Nebraska,2025-02-09,True,
+9195,Amanda Spence,Checking,60215.43,46,Montana,2021-11-22,False,594.0
+73903,Carrie Walsh,Checking,46428.41,13,Oregon,2024-04-21,True,
+25563,Jeffrey Woods,Checking,97261.62,42,Tennessee,2023-08-25,False,
+25209,Suzanne Meyers,Credit Card,56807.22,20,Idaho,2024-01-10,False,495.0
+71717,Cheryl Deleon,Credit Card,79262.79,47,Arkansas,2022-02-09,True,402.0
+88462,Crystal Paul,Checking,58189.26,6,Georgia,2023-08-25,False,557.0
+84267,Jo Hunt,Checking,25120.62,1,Maine,2023-09-12,True,
+87153,Jessica Glass,Savings,69869.39,22,Alabama,2022-08-24,True,
+54674,Jessica Fox,Savings,91561.4,50,Vermont,2025-03-15,False,825.0
+56360,William Lawrence,Savings,69822.39,32,Colorado,2020-07-18,False,322.0
+5997,Michael Rodriguez,Credit Card,81273.64,45,Delaware,2021-12-13,False,764.0
+97030,Catherine Sullivan,Credit Card,60135.41,6,California,2021-06-24,False,488.0
+99743,Danielle Jennings,Checking,42998.33,41,Mississippi,2020-02-22,False,440.0
+94948,Kevin Fritz,Credit Card,72944.2,13,Missouri,2023-01-29,False,531.0
+37830,Christopher Huff,Credit Card,11334.2,18,Missouri,2023-03-01,True,800.0
+46298,Courtney Gentry,Savings,94254.81,18,Mississippi,2020-11-24,True,
+78024,Adam Khan,Checking,332.3,30,South Dakota,2022-12-17,True,
+27811,Howard Cordova,Savings,45466.53,3,Illinois,2022-06-30,False,577.0
+41163,Paul Neal,Savings,85787.58,6,Massachusetts,2023-09-19,True,584.0
+95757,Mary Anderson,Checking,49505.5,35,Nevada,2020-10-30,True,613.0
+62632,Wendy Sullivan,Credit Card,84319.86,7,Kansas,2021-02-13,True,
+81796,Marie Green,Checking,40318.23,49,Louisiana,2023-03-27,False,302.0
+34828,Melissa Miller,Savings,40452.8,21,Maine,2023-10-11,False,507.0
+169,Kristina James,Savings,84078.33,2,Ohio,2020-10-29,True,
+11022,Daniel White,Credit Card,28144.94,33,Michigan,2022-02-03,False,830.0
+99716,Luis Smith,Savings,27048.63,31,New Hampshire,2021-10-14,False,446.0
+51280,Dale Austin,Credit Card,344.98,15,Arkansas,2024-11-08,True,425.0
+68141,Allison Garcia,Savings,25757.8,50,West Virginia,2021-02-16,False,489.0
+20691,Jody Castillo,Checking,9253.44,47,Indiana,2021-11-28,False,
+91233,Jacob Dickerson,Credit Card,24023.99,10,Nevada,2023-11-23,True,
+70614,Kimberly Johnson,Checking,14115.11,15,Alaska,2025-01-19,False,
+35206,Blake Duarte,Savings,99420.79,36,Georgia,2023-03-11,True,516.0
+41801,Patricia Davis,Checking,81689.74,4,Alaska,2022-11-01,False,695.0
+77894,Larry Bailey,Credit Card,11015.8,48,New Jersey,2023-11-18,False,
+23056,Kathy Brown,Savings,75662.06,47,West Virginia,2021-12-07,True,
+34862,Michael Foster,Checking,23029.19,11,Montana,2022-05-04,True,
+24961,Patricia Krueger,Checking,28015.04,22,Pennsylvania,2023-03-10,True,821.0
+33866,Dr. Catherine Porter,Credit Card,41881.57,9,Nebraska,2022-04-01,False,
+7799,Mark Glover,Savings,83088.55,35,South Dakota,2024-12-26,True,334.0
+14467,Jeffrey Russell,Credit Card,23410.74,47,Florida,2022-01-21,True,
+80507,Nancy Lutz,Checking,15399.64,40,Indiana,2020-04-11,False,
+39346,Mary Mcbride,Credit Card,17237.4,45,Tennessee,2020-02-21,True,620.0
+38652,Katherine Barker,Credit Card,49621.89,32,Pennsylvania,2023-10-26,False,443.0
+94868,Jean Johnson,Checking,42936.03,36,South Carolina,2020-11-23,False,
+2726,Russell Navarro,Checking,22064.44,9,Mississippi,2022-11-18,True,
+32107,Nicole Donaldson,Credit Card,97581.23,47,Connecticut,2020-12-14,True,434.0
+70135,Larry Hamilton,Credit Card,94245.78,30,South Dakota,2024-04-21,False,
+5306,Michael Ruiz,Checking,43996.71,37,Pennsylvania,2024-01-22,True,342.0
+84342,Sharon Washington,Savings,52474.66,45,Connecticut,2024-03-01,True,780.0
+6540,Michelle Bailey,Checking,37580.4,11,Minnesota,2025-02-14,True,
+34391,Gabriela Harris,Credit Card,72487.6,31,Maryland,2025-03-12,True,843.0
+2652,Trevor Martin,Savings,88507.61,19,New Hampshire,2021-11-15,False,399.0
+51781,Mr. Corey Davis,Savings,42189.23,28,Texas,2021-09-17,True,
+5839,Bethany Henderson,Checking,27637.44,39,Georgia,2021-11-07,False,
+60365,Thomas Chen,Savings,64311.07,5,Idaho,2022-09-04,False,363.0
+97152,Laurie Wheeler,Checking,65412.07,28,Louisiana,2023-04-05,True,414.0
+10879,Sergio Snow,Credit Card,7927.42,13,North Carolina,2024-11-26,False,604.0
+41524,Mark Martinez,Credit Card,61709.52,14,Louisiana,2024-08-03,True,313.0
+51509,Monica Rogers,Credit Card,5843.53,44,Delaware,2023-10-05,True,701.0
+58860,Sarah Turner,Credit Card,16585.08,17,Tennessee,2025-02-25,True,740.0
+46641,Jason Harrison,Savings,8082.38,10,Wyoming,2022-04-23,True,720.0
+12182,Travis Clark,Checking,91669.23,43,Nebraska,2024-08-14,False,765.0
+17050,Ann Taylor,Credit Card,26907.92,49,New Hampshire,2021-01-02,True,
+39949,Shawn Williams,Checking,29429.67,39,Kansas,2023-06-23,True,
+49119,Joseph Cardenas,Checking,94151.05,9,Colorado,2022-11-02,True,574.0
+60827,Keith Snyder,Credit Card,92321.4,42,Utah,2020-12-22,True,
+9553,Gina Martinez,Savings,74777.87,49,Montana,2023-07-16,True,
+27782,Luis Hughes,Savings,5932.93,7,Arkansas,2020-09-17,True,
+95061,Daniel Kim,Savings,38402.69,12,Michigan,2023-08-12,False,418.0
+23550,Ebony Ortiz,Credit Card,41942.69,42,Idaho,2022-02-16,True,745.0
+61581,Amanda Andersen,Credit Card,10954.44,10,Vermont,2020-04-06,False,652.0
+65530,Melanie Anderson,Savings,66681.65,49,California,2024-05-20,False,836.0
+32288,Justin Hamilton,Credit Card,17336.15,33,Nevada,2022-08-14,False,
+80864,Nancy Bean,Credit Card,51628.09,17,Iowa,2023-04-13,True,687.0
+3773,Amy Phillips,Credit Card,95418.9,12,Colorado,2023-02-20,True,331.0
+83731,Kimberly Jennings,Checking,46041.26,14,Oklahoma,2024-04-07,False,
+57183,Mr. Kevin Jennings,Savings,15465.24,13,Mississippi,2022-06-13,False,
+15130,Sarah Nelson,Credit Card,43058.58,33,Ohio,2020-02-02,True,
+29814,Jennifer Hall,Credit Card,95832.83,5,Missouri,2022-09-20,True,548.0
+34397,Robert Griffith,Credit Card,922.39,8,South Dakota,2024-02-14,True,
+9468,Michael Myers,Savings,68088.38,30,Virginia,2025-03-03,False,619.0
+16607,David Mitchell,Savings,22739.77,11,West Virginia,2020-04-07,True,
+6782,Heidi Gonzalez,Checking,32347.56,43,South Dakota,2022-01-31,True,
+2397,Cindy Chen,Savings,61208.18,30,North Dakota,2023-03-09,True,
+42350,Amy Warner,Checking,93887.9,48,Massachusetts,2022-03-31,True,642.0
+70174,Joan Hamilton,Credit Card,65013.34,38,Montana,2024-04-03,False,718.0
+61173,Kimberly Young,Credit Card,7067.59,18,Alabama,2022-08-25,False,534.0
+40481,Paul Schultz,Savings,76438.58,4,Oregon,2022-07-06,True,
+40591,Rebecca Dominguez,Savings,80193.29,38,Maine,2022-05-10,False,
+35310,Christopher Jenkins,Savings,16834.02,41,Hawaii,2024-08-10,True,421.0
+17165,Shawn Hall,Credit Card,35576.8,27,New Hampshire,2021-07-16,False,
+18627,Sheila Grant,Credit Card,47664.66,17,Virginia,2023-01-28,True,480.0
+69393,Shannon Roach,Checking,63041.63,15,Vermont,2021-10-30,False,
+2320,Robert Mcmahon,Savings,61725.12,31,Alabama,2022-10-26,True,
+30369,Amanda Bowen,Savings,21170.37,37,California,2024-10-17,True,
+96268,Megan Horton,Savings,70897.7,11,Connecticut,2023-10-17,True,
+84953,Gina Sellers,Checking,53909.9,27,North Dakota,2020-10-26,True,744.0
+85865,Donna Green,Checking,3537.44,37,Iowa,2022-04-05,True,435.0
+18480,James Reynolds,Checking,55973.43,2,North Carolina,2020-08-25,True,493.0
+20123,Kylie Hudson,Checking,23946.83,26,Idaho,2022-02-19,False,
+67017,Pamela Hernandez,Credit Card,13615.23,42,Montana,2024-02-28,False,421.0
+93566,Ronald Mathews,Savings,91846.52,16,Idaho,2020-04-21,True,
+63129,Philip Carson,Checking,14447.78,18,Louisiana,2021-12-02,True,516.0
+42890,Elizabeth Smith,Savings,80939.15,34,Louisiana,2024-10-13,False,
+47951,Alexis Nelson,Credit Card,61829.09,28,North Dakota,2025-01-27,False,795.0
+59054,Michael Liu,Checking,55428.64,42,Nevada,2022-04-19,True,465.0
+62444,Michelle Coleman,Checking,30685.56,46,Maine,2021-07-06,True,334.0
+33539,George Smith,Checking,52826.29,35,Alaska,2022-03-24,False,
+12922,Christopher Robinson,Credit Card,80184.81,37,Indiana,2023-10-10,True,526.0
+40338,Laurie Lee,Credit Card,79068.4,20,New York,2020-09-08,True,
+11636,Evelyn Acosta,Credit Card,7482.1,25,West Virginia,2021-03-08,False,325.0
+18706,Taylor Cole,Credit Card,34315.5,48,Oregon,2023-03-03,False,440.0
+55056,Jacqueline Brewer,Credit Card,48468.83,10,New York,2020-10-27,True,
+32008,Carlos Alvarez,Credit Card,19693.14,33,Louisiana,2024-12-18,False,
+87409,Christopher Todd,Credit Card,35725.38,17,Delaware,2024-09-15,False,
+1715,Derek Long,Savings,88891.83,19,Maine,2025-01-31,True,665.0
+93022,Scott Blackburn,Credit Card,44693.35,35,Illinois,2022-05-23,False,
+98871,Shari Galloway,Credit Card,67525.36,25,Vermont,2023-09-18,False,315.0
+14018,Aaron Vega,Savings,62740.87,29,South Carolina,2022-04-20,True,820.0
+90326,Patrick Allen,Savings,30944.0,34,Maryland,2020-02-23,False,
+78749,Megan Church,Savings,96942.81,17,Delaware,2021-07-07,False,318.0
+41383,Robert Ramirez,Credit Card,93436.39,14,Maine,2020-12-23,True,
+57867,William Williams,Checking,84348.79,9,Mississippi,2023-03-14,True,325.0
+65516,Adam Quinn,Credit Card,86052.32,39,Indiana,2021-02-02,False,
+59740,Michele Ruiz,Checking,38725.57,35,Tennessee,2024-03-02,True,
+56468,Jeff Roy,Credit Card,62451.07,26,Vermont,2020-03-21,False,
+70924,Daniel Thomas,Credit Card,61554.04,1,Iowa,2021-08-31,True,780.0
+78724,Becky Taylor,Savings,86786.32,7,Kansas,2021-03-04,True,
+27896,Ryan Jones,Checking,45638.55,34,Tennessee,2023-08-27,False,
+87012,Sharon Miller,Credit Card,76398.17,32,Minnesota,2020-08-07,False,302.0
+67448,Ernest Warren,Checking,54338.19,18,Wyoming,2021-05-25,True,
+25834,Jason Ho MD,Checking,71161.72,15,New Mexico,2020-08-31,False,
+74224,Oscar Green,Checking,35190.2,7,Florida,2021-05-08,True,
+97492,Teresa Davis,Credit Card,61671.47,8,Texas,2023-02-28,True,738.0
+77006,Molly Decker,Savings,92194.14,6,Idaho,2022-01-29,True,548.0
+21373,Robert Montgomery,Checking,67774.21,39,Illinois,2023-11-17,False,
+70608,Curtis Miller,Credit Card,60717.91,24,Georgia,2020-08-13,True,404.0
+93273,Amanda Turner,Credit Card,63825.75,12,New Mexico,2020-06-09,False,
+66921,Kyle Odonnell,Checking,76957.59,10,Nebraska,2023-08-02,False,
+22377,Alyssa Nguyen,Checking,25159.84,16,Washington,2021-01-23,True,565.0
+59460,Justin Harmon,Savings,25906.66,3,Virginia,2023-12-16,True,
+16280,Anthony Hernandez,Savings,96203.64,28,Georgia,2021-04-10,True,
+19626,Karen Bentley,Credit Card,70030.25,43,New Mexico,2023-12-09,False,
+20311,Kayla Wright,Savings,51559.92,46,New York,2021-09-07,False,
+30725,Jesus Smith,Credit Card,11467.05,47,Kansas,2025-03-09,False,
+22495,Breanna Callahan,Credit Card,68220.36,37,Minnesota,2024-08-24,False,620.0
+21543,Grace Barajas,Checking,17411.94,40,West Virginia,2022-06-13,True,
+85771,Amy Thomas,Checking,49008.54,17,Maine,2022-05-03,True,
+81965,Laura Kelley,Checking,11621.15,39,Iowa,2023-01-27,False,394.0
+48507,Christine Chavez,Checking,74338.01,17,Arizona,2021-12-25,False,439.0
+75126,Jesse Turner,Checking,66526.64,2,Kansas,2020-09-11,True,
+99224,Sharon Freeman,Savings,62629.89,4,Florida,2020-01-05,True,518.0
+15088,George Hickman,Savings,45906.23,19,Idaho,2024-12-09,False,
+21995,Kerry Clark,Savings,61549.51,38,Indiana,2022-08-19,True,562.0
+70894,Ryan Carter,Savings,84357.91,16,Tennessee,2020-11-14,True,711.0
+25480,James Brooks,Savings,96372.45,9,Delaware,2022-02-12,True,
+13628,Vanessa Thomas,Credit Card,96956.46,25,Wisconsin,2023-09-26,True,775.0
+56825,Chelsey Walker,Savings,73925.88,33,New York,2022-04-02,True,568.0
+40305,Jon King,Credit Card,71879.49,23,Wyoming,2021-06-19,True,
+86871,Lauren Walsh,Credit Card,98343.7,5,Idaho,2022-11-11,True,
+42836,Charles Williams,Checking,32257.84,38,Washington,2022-10-21,False,542.0
+63146,Linda Miller,Checking,86425.37,23,North Dakota,2023-05-05,False,
+63244,Amy Morton,Checking,6736.15,40,Indiana,2023-12-16,False,538.0
+57817,Caroline Lara,Credit Card,14151.28,17,Pennsylvania,2023-04-05,False,
+52435,James Adams,Checking,42532.7,25,New Hampshire,2022-03-30,True,
+51454,Alejandro Young,Checking,88014.93,21,Tennessee,2020-06-06,False,462.0
+6274,Shannon Hayes,Credit Card,27039.94,1,Nebraska,2020-06-15,True,
+1120,Yolanda Johns,Checking,16981.41,16,Colorado,2020-11-17,True,451.0
+98776,Matthew Lee,Savings,64406.61,26,Illinois,2023-04-02,True,661.0
+53932,Natasha Jones,Checking,75285.34,49,Vermont,2020-02-29,True,
+78444,Katherine Fry,Checking,12189.38,45,Maine,2024-03-18,False,330.0
+27898,Michelle Clay,Checking,34395.31,35,Alaska,2021-12-11,False,
+50313,Jennifer Ford,Credit Card,67974.42,4,Colorado,2022-05-18,False,422.0
+70299,Kelly Turner,Savings,43750.93,50,Minnesota,2021-10-03,False,
+18791,Jeremy Smith,Checking,92485.25,31,Tennessee,2024-10-22,False,744.0
+34881,Amy Brandt,Credit Card,3993.52,15,Delaware,2020-04-14,False,
+59546,Stacy Noble,Credit Card,42879.78,17,New Jersey,2021-07-20,False,
+50304,Elizabeth Turner,Checking,76635.98,10,Massachusetts,2021-05-14,True,
+75751,Dawn Austin,Credit Card,55937.68,15,Montana,2022-03-26,True,659.0
+63430,Michelle Sanchez,Savings,55717.1,34,West Virginia,2024-11-28,False,572.0
+25142,Michael Compton,Savings,39622.9,7,New York,2022-03-30,False,331.0
+11494,Sherri Gross,Checking,99987.75,32,New Jersey,2024-02-02,True,400.0
+90468,Jorge Ellison,Savings,84771.13,8,Indiana,2023-07-03,True,301.0
+87677,Jorge Nolan,Savings,28966.55,26,Georgia,2024-12-17,True,
+31319,Kelly Russell,Credit Card,82126.68,26,South Dakota,2022-06-12,False,413.0
+72499,Heather Johnson MD,Credit Card,16859.17,13,South Dakota,2023-10-13,True,
+28806,Cindy Schneider,Savings,48607.19,2,Tennessee,2022-05-15,True,
+51314,Courtney Rowe,Checking,14059.3,4,Virginia,2020-08-07,False,
+66900,Frank Brown,Checking,54959.66,44,West Virginia,2022-01-24,False,685.0
+60641,Jill Crawford,Checking,79950.14,3,Florida,2023-08-21,False,
+46498,Kayla Hughes,Credit Card,72697.33,40,Arkansas,2021-02-03,True,
+3145,Justin Patterson,Checking,81394.1,37,Kentucky,2020-02-06,False,774.0
+91801,Richard Blair,Credit Card,1841.17,29,Rhode Island,2020-09-12,True,472.0
+98323,Jeremy Perez,Checking,22156.16,6,Hawaii,2023-03-28,True,536.0
+27085,Alexander Dunn,Checking,10932.46,25,Illinois,2024-03-18,False,306.0
+95621,Leah Wilson,Checking,80477.28,32,Kentucky,2025-02-26,True,317.0
+7298,Mr. Gerald Price,Savings,7462.72,47,Missouri,2021-06-17,True,
+23004,Brad Hill,Checking,62773.49,40,California,2023-05-17,True,
+24647,Stephanie Henderson,Checking,71184.61,4,Delaware,2024-11-16,True,
+38140,Richard Landry,Credit Card,92036.58,35,Georgia,2021-03-25,True,
+56574,Kiara Waters,Credit Card,6317.38,49,Wisconsin,2024-03-27,True,751.0
+49144,Robert Torres,Savings,72072.52,50,Oklahoma,2022-06-06,True,
+26417,Amanda Wallace,Savings,2829.69,39,Virginia,2021-04-02,True,
+96690,Maria Brown,Checking,74272.2,14,Iowa,2020-09-20,True,
+22661,Victoria Miller,Checking,34601.11,25,Arizona,2025-02-02,True,
+31845,Holly Delgado,Savings,5090.32,44,South Carolina,2024-12-14,False,
+49994,Taylor Heath,Savings,94255.84,46,Oregon,2024-05-30,False,603.0
+45974,Amber Wilson,Savings,8727.41,42,Maine,2023-04-04,True,462.0
+98108,Dr. Holly Shaw,Checking,98353.67,2,Massachusetts,2022-08-31,False,305.0
+46174,Jasmine Johnson,Credit Card,27605.93,33,North Dakota,2021-09-18,False,
+35859,Stephen Vasquez,Checking,88286.2,33,West Virginia,2022-01-27,True,
+46574,Tracy Calhoun,Checking,80240.69,49,Massachusetts,2021-11-29,True,423.0
+46189,John Murphy,Checking,85428.78,14,Arkansas,2023-03-08,False,655.0
+95899,Kenneth Larson,Checking,28482.67,11,Ohio,2024-07-06,False,
+40709,Michael Mendez,Savings,30569.3,45,Iowa,2020-12-02,True,
+28449,Makayla Acevedo,Credit Card,68459.42,42,Maryland,2024-12-11,True,
+43660,Emily Rivera,Savings,40880.91,24,Washington,2024-07-12,True,455.0
+10204,Haley Jennings,Credit Card,88878.85,1,Utah,2024-09-20,True,502.0
+85211,Jennifer Richmond DDS,Savings,13385.21,43,Florida,2022-05-02,True,
+28885,Nicholas Miller,Credit Card,48060.08,16,North Dakota,2025-03-06,True,607.0
+5503,Lindsay Johnson,Credit Card,69145.29,42,North Carolina,2024-11-09,True,469.0
+57911,Aaron Green,Checking,82098.31,25,Missouri,2022-08-16,False,811.0
+58050,Brandon Brown,Credit Card,68716.03,21,Florida,2025-01-20,False,
+31195,Anne Kent,Savings,43043.99,44,Rhode Island,2024-09-01,False,
+97441,Stephen Kline,Savings,63138.73,4,Maryland,2021-10-01,False,397.0
+99642,Jane Cardenas,Checking,74024.58,8,Tennessee,2024-07-10,True,716.0
+90048,Theresa Hansen,Checking,4905.13,1,Montana,2023-06-16,True,
+97857,Paul Bautista,Credit Card,50246.07,27,Connecticut,2020-05-22,False,844.0
+47881,Stephanie Small,Credit Card,56150.65,48,Massachusetts,2024-05-14,False,332.0
+69189,Meghan Haynes,Savings,66092.71,15,Vermont,2020-12-24,False,
+49946,Randall Melton,Checking,35036.94,32,Massachusetts,2024-01-07,True,476.0
+57401,Mary Bryant,Savings,40871.83,6,Maryland,2021-06-07,True,
+60244,Angela Bishop,Credit Card,39278.1,6,New York,2024-01-02,True,799.0
+9393,Melissa Best,Savings,43156.28,6,Wisconsin,2022-02-15,False,603.0
+81100,Richard Chavez,Checking,18770.44,3,New Mexico,2023-05-06,True,
+58496,John Mitchell,Checking,75316.8,15,West Virginia,2020-08-19,True,501.0
+92688,Eric Bryant,Checking,21828.48,45,Hawaii,2021-06-27,True,
+63630,Craig Diaz,Savings,42461.66,44,Arkansas,2020-11-12,True,435.0
+196,Nathaniel Garcia,Credit Card,21990.56,11,Louisiana,2023-12-01,True,
+23181,Dana Jefferson,Checking,3677.23,47,Connecticut,2022-02-25,False,824.0
+65447,Emily Simpson,Savings,55098.33,34,Nevada,2020-03-19,True,818.0
+91267,Amber Williams,Credit Card,81707.09,14,Colorado,2024-07-22,True,
+70034,Ricardo Smith,Checking,41227.35,29,California,2022-12-07,True,696.0
+38634,Mark Stephens DDS,Credit Card,80698.63,19,Montana,2021-07-26,True,691.0
+39450,Daniel Carr,Checking,84038.32,27,Vermont,2021-06-13,True,569.0
+48351,Robert Hayes Jr.,Checking,50275.26,13,Georgia,2021-03-09,True,762.0
+21509,Michael Barker,Credit Card,95208.67,46,North Dakota,2022-05-29,False,
+96403,Christopher Riley,Checking,25273.62,28,Utah,2023-08-24,False,412.0
+62025,Gregory Wilson,Savings,12291.71,24,Nebraska,2023-10-18,True,640.0
+3356,Michelle Castillo,Savings,89119.13,25,Oregon,2022-02-14,False,
+78207,Carl White,Checking,65840.0,50,Illinois,2021-05-25,False,
+73384,Evan Munoz,Credit Card,32175.14,22,Georgia,2022-02-20,True,606.0
+11840,Robert Stevens,Credit Card,55148.2,36,California,2020-12-18,True,646.0
+18477,Megan Wiggins,Savings,57139.52,46,Hawaii,2024-07-24,False,551.0
+38329,Taylor Doyle,Credit Card,23177.84,30,Maine,2021-10-21,True,
+48815,Theodore White,Savings,19009.57,44,Pennsylvania,2022-11-03,True,752.0
+96783,Steven Morse,Checking,49398.04,16,Connecticut,2023-01-10,False,
+31980,Gregory Beasley,Savings,64291.93,26,New York,2024-11-10,False,
+29146,Daryl Garcia,Savings,26895.19,22,Arizona,2021-10-24,True,710.0
+12740,John Richardson,Checking,43996.74,11,Mississippi,2024-08-19,False,380.0
+79891,Lydia Doyle,Savings,49000.53,45,Alaska,2024-11-03,False,
+34911,Mrs. Christina Walker,Savings,47031.11,44,Michigan,2024-10-30,False,
+41675,Susan Fry,Checking,40805.54,18,Wyoming,2024-12-06,True,
+10759,Kelsey Wilson,Savings,95203.95,6,Massachusetts,2020-04-30,False,
+98894,Joshua Griffin,Savings,97416.97,18,Delaware,2021-12-04,True,764.0
+43228,Gregory Haley,Credit Card,99833.43,33,South Dakota,2024-08-12,True,
+74716,Yolanda Zimmerman,Checking,98058.95,38,New Hampshire,2023-05-03,False,716.0
+37284,Mark Hill,Checking,32393.06,27,Rhode Island,2020-07-02,True,
+81570,Randy Hutchinson,Savings,6566.2,49,Rhode Island,2023-04-29,True,833.0
+91222,Kelly Wade,Credit Card,99375.94,34,Hawaii,2022-03-21,False,
+13385,Michael Green,Credit Card,70185.46,47,Hawaii,2022-08-12,False,
+67512,Megan Strickland,Checking,5786.41,45,Massachusetts,2020-04-05,True,
+39400,Elizabeth Hess,Credit Card,48901.24,44,Alaska,2024-03-06,False,799.0
+74863,Jennifer Mitchell,Credit Card,655.88,38,Alaska,2023-07-18,True,461.0
+39579,Gregg Morgan,Checking,65748.89,6,Colorado,2021-11-06,True,426.0
+54278,Angela Rodriguez,Checking,85104.26,45,Ohio,2022-07-28,True,756.0
+99788,Ryan Scott,Savings,47514.32,6,Kentucky,2020-07-16,False,689.0
+4225,Ryan Kim,Savings,34096.36,43,Kansas,2021-12-19,False,
+24695,Bryan Smith,Checking,80164.47,11,Idaho,2024-12-13,False,
+15507,Matthew Vazquez,Credit Card,93969.52,48,Massachusetts,2023-09-17,True,800.0
+67228,Reginald Carey,Credit Card,35299.08,31,Alaska,2021-08-02,True,
+35660,Jason Anderson,Credit Card,59878.0,50,West Virginia,2020-09-06,True,
+65995,Ashley Carter,Checking,91870.97,8,West Virginia,2024-08-27,False,501.0
+72219,Anthony Williams,Credit Card,89287.22,11,Missouri,2022-04-20,False,317.0
+5269,Joe Gonzalez,Checking,49565.62,22,Arkansas,2023-04-05,True,432.0
+1812,Robert Thompson,Checking,9019.06,23,Oklahoma,2022-07-08,False,710.0
+85953,Thomas Wilson,Savings,47379.66,43,Kansas,2023-07-03,True,502.0
+64376,Jennifer Scott,Credit Card,62254.6,2,Utah,2024-09-28,True,411.0
+26447,James Valdez,Credit Card,44594.68,42,Oregon,2020-09-02,False,759.0
+34724,Heather Krause,Checking,69160.4,13,Maine,2025-01-02,True,
+22542,Cristian Ward,Savings,65480.77,24,Wyoming,2022-05-03,True,
+10399,Dana Christensen,Checking,73254.83,36,South Dakota,2021-04-19,True,540.0
+6661,Kenneth Butler,Checking,2772.41,29,Colorado,2020-05-01,True,475.0
+81435,Cody Henson,Checking,48577.91,16,Maryland,2024-05-14,False,463.0
+73052,Tina Bishop,Savings,65425.87,11,Maryland,2024-07-27,True,679.0
+74544,Craig Morales,Savings,76212.8,49,Louisiana,2022-07-08,True,340.0
+73670,Jaime Kent,Checking,7065.68,12,Missouri,2021-08-20,False,
+79321,Ronald Cortez,Savings,20853.58,46,Oklahoma,2020-06-13,False,625.0
+26387,Brandon Jones,Savings,11001.33,35,Missouri,2022-04-09,False,693.0
+98948,Ryan Myers,Checking,93838.88,15,Montana,2021-10-13,False,
+58552,James Proctor,Credit Card,844.9,4,Michigan,2021-08-02,True,461.0
+65829,Jennifer Miller MD,Checking,19465.67,8,Vermont,2021-03-21,False,387.0
+74211,Shelly Small,Savings,73475.72,24,New Jersey,2020-12-16,True,
+53583,Doris Castaneda,Credit Card,1521.05,43,Delaware,2021-03-08,False,
+39776,Russell Brown,Credit Card,2528.85,45,Utah,2022-11-23,True,680.0
+122,Mary Abbott,Checking,51316.18,10,Colorado,2020-01-18,True,
+35474,Daniel Martin,Checking,38067.08,14,Wyoming,2022-05-13,False,673.0
+5623,Lindsay Rodriguez,Credit Card,50215.41,34,South Dakota,2022-02-10,True,684.0
+1405,Wendy Meyer,Savings,9144.69,24,Florida,2021-05-12,True,
+66025,Kimberly Lewis,Credit Card,89253.44,34,South Dakota,2023-02-06,True,408.0
+20460,Dr. Alexander Kelly,Checking,41686.82,23,North Carolina,2020-06-15,True,748.0
+16930,Michael Brooks,Checking,53955.85,48,North Dakota,2022-07-18,False,708.0
+66790,Terry Page,Savings,90283.37,7,Rhode Island,2024-09-24,True,346.0
+82304,Gregory Kim,Savings,62483.15,50,Oklahoma,2025-01-05,True,
+62601,Pamela Lam,Credit Card,34882.7,9,Rhode Island,2023-10-01,True,547.0
+22414,Alex Heath,Checking,71270.52,30,Nebraska,2023-10-15,True,
+3910,Diana Lopez MD,Credit Card,12562.11,8,Louisiana,2023-01-16,False,638.0
+53689,Nathan Flores,Checking,35151.87,48,Missouri,2024-10-15,True,811.0
+29987,Hannah Roman,Credit Card,25472.38,6,Tennessee,2021-05-17,False,
+24881,Adam Santos,Checking,70805.49,20,Kansas,2021-11-28,True,826.0
+64038,Taylor Harvey,Checking,38759.72,42,Missouri,2024-12-10,True,
+42477,George Bishop,Savings,95045.84,32,Vermont,2022-07-25,True,
+15011,Jason Owens,Checking,1572.07,32,Michigan,2022-07-12,True,
+14273,Brian Clark,Credit Card,2818.72,46,Missouri,2021-09-13,True,401.0
+35396,Keith Brown,Savings,27108.22,40,Alaska,2020-09-03,True,840.0
+90711,Rebekah Wells,Credit Card,9653.31,20,Texas,2020-08-16,False,
+70262,Scott Riley,Checking,4956.0,48,Texas,2020-12-31,True,551.0
+66949,Janet Jackson,Checking,20583.07,32,Kansas,2023-12-03,True,
+82670,Mr. Eugene Martinez MD,Savings,14442.53,45,Missouri,2023-09-29,True,503.0
+62536,Deborah Boone,Savings,81240.12,24,Indiana,2021-02-22,False,842.0
+80516,Carol Hall,Savings,93752.64,8,Washington,2022-08-30,False,706.0
+24477,Lori Kelley,Savings,3075.57,17,Montana,2020-10-16,False,474.0
+96108,Emma Walters,Savings,99247.33,11,Minnesota,2022-05-25,False,652.0
+67053,Amy Miller,Credit Card,10596.29,43,Massachusetts,2020-08-28,True,
+735,Kyle Scott,Checking,73007.94,5,West Virginia,2021-06-27,True,
+96121,Justin Sparks,Checking,43759.06,41,Connecticut,2024-05-08,True,485.0
+14940,Karen Rodriguez,Credit Card,95692.02,5,Georgia,2020-12-18,False,
+84205,Jasmine Lewis,Checking,34859.06,7,Missouri,2024-04-13,True,444.0
+54333,Kimberly Berry,Checking,75433.93,35,Michigan,2021-03-09,False,505.0
+37440,Valerie Benson,Savings,92728.72,27,Michigan,2024-11-19,True,349.0
+12581,William Kelly,Savings,96477.75,22,Illinois,2022-10-28,False,314.0
+42550,Robert Hall,Checking,18590.3,24,New Mexico,2023-10-18,False,
+24669,John Aguilar,Credit Card,57332.46,40,New Mexico,2023-02-05,False,575.0
+15084,Kimberly Daniel,Checking,93315.15,30,North Dakota,2020-01-15,False,650.0
+75970,Kristina Thomas,Savings,90722.24,5,Minnesota,2022-03-09,False,
+57370,Kimberly Robinson,Checking,33295.45,49,Minnesota,2021-11-25,False,
+53960,Shelly Davis,Credit Card,64083.11,50,Oregon,2023-07-08,False,
+2761,Leslie Cox,Credit Card,31336.8,36,Montana,2022-05-12,False,369.0
+26872,Kevin Reed,Checking,44408.65,32,Montana,2022-02-08,False,
+26561,Taylor Daniel,Credit Card,42088.07,26,Tennessee,2022-05-19,True,503.0
+91629,Chad Rodriguez,Savings,63790.09,50,Vermont,2023-09-04,False,438.0
+93024,Christina Simpson,Credit Card,12060.84,30,Oklahoma,2024-12-18,True,
+2038,Brian Wood,Credit Card,77454.17,23,New Jersey,2023-08-26,False,
+91326,Vernon Moreno,Savings,83793.39,35,Pennsylvania,2020-08-01,True,
+1780,Dustin Orozco,Checking,36629.02,22,Alabama,2021-01-04,False,545.0
+1961,John Faulkner,Savings,94579.27,17,Florida,2023-03-01,True,328.0
+1865,Ryan Hoffman,Credit Card,35883.84,8,Arizona,2020-08-03,False,
+23964,Jamie Walker PhD,Checking,70746.83,30,Delaware,2024-02-13,False,
+98530,Robin Hart,Savings,43328.7,13,North Dakota,2023-11-12,True,
+27527,Lindsey Molina,Savings,64433.09,38,Idaho,2023-10-14,True,
+739,Brendan Alvarez,Savings,43143.33,33,New Jersey,2024-03-15,False,
+95789,Ariel Edwards,Checking,61177.15,37,Arizona,2021-02-03,False,603.0
+70519,Lauren Barker,Credit Card,7031.04,46,Wisconsin,2020-04-05,False,
+88321,Brandon Wilson,Credit Card,83460.94,32,Mississippi,2020-05-09,True,
+21729,Jacob Martin,Checking,5068.5,1,Idaho,2023-06-30,True,673.0
+98901,Lisa Gallegos,Savings,46466.92,47,Arizona,2021-03-02,False,800.0
+6251,Ana Reed,Checking,67665.26,36,West Virginia,2024-01-01,True,536.0
+79067,Adam Terrell,Checking,82928.66,47,Alaska,2023-09-12,True,329.0
+88822,Vincent Warren,Checking,19278.85,47,Indiana,2024-05-20,False,376.0
+94548,Debra Woods,Checking,94430.28,31,Alabama,2020-07-12,True,
+77525,Jesus Moore,Savings,60628.92,11,Vermont,2024-10-25,False,429.0
+28141,Brenda Nolan,Savings,39327.36,15,Oklahoma,2022-06-26,True,607.0
+31366,Jennifer Lee,Checking,20207.72,49,Iowa,2022-08-15,False,
+61399,Tammy Murray,Checking,34642.46,39,Nevada,2021-05-28,False,423.0
+41095,Phillip Williams,Credit Card,82341.8,34,Arizona,2021-07-17,True,449.0
+11508,Steven Marshall,Checking,94144.46,22,Vermont,2022-09-26,False,
+70575,Daniel Jones,Checking,64814.72,31,New Hampshire,2022-01-16,False,834.0
+40974,Jessica Oneal,Savings,59274.14,24,New Mexico,2023-10-20,False,
+47732,Tyler Mason,Savings,42784.42,29,Michigan,2021-03-09,True,
+56427,Deborah Castro,Checking,49376.1,46,Nevada,2024-11-18,False,730.0
+85057,Elizabeth Dean,Savings,79781.85,19,California,2024-12-31,True,
+39781,Rick Dominguez,Credit Card,23871.64,45,Arizona,2021-02-24,False,
+66078,Kathryn Moore,Savings,78727.78,1,Oklahoma,2025-02-20,True,
+2070,Corey Lewis,Checking,88238.42,27,Montana,2020-11-04,True,
+75927,Michael Schmidt,Checking,69237.71,8,New Mexico,2024-06-03,False,
+1891,Gabrielle Garrison,Savings,12584.8,3,Maine,2024-11-15,True,
+43321,Mark Rowe,Checking,98354.39,26,Tennessee,2020-05-02,False,506.0
+3248,Tricia Pittman,Credit Card,46880.87,5,Texas,2021-04-26,True,804.0
+48133,Christina Ochoa MD,Credit Card,24549.29,24,Nebraska,2022-08-02,False,
+32261,Jacqueline Thomas,Credit Card,51628.0,37,Rhode Island,2023-08-10,True,440.0
+58864,George Lara,Savings,99891.46,37,Delaware,2024-09-19,False,
+22446,Joshua Hall,Savings,82851.91,8,Kentucky,2022-11-07,True,
+83873,David Roth,Savings,33754.54,31,Mississippi,2021-10-15,True,724.0
+55359,Nicholas Clark,Credit Card,30294.36,9,Oklahoma,2022-10-23,False,640.0
+71720,Amy Morris,Savings,79046.23,48,Arkansas,2022-09-29,True,
+5478,Mitchell Lang,Credit Card,84376.56,36,South Carolina,2022-12-07,True,776.0
+27218,Stephanie Flores,Savings,59446.31,20,New Mexico,2020-10-28,False,
+64588,Joshua Long,Savings,84429.73,22,Mississippi,2021-11-18,False,711.0
+36397,Jessica Simon PhD,Savings,92642.89,39,Massachusetts,2021-08-01,True,570.0
+64657,Mark Hardy,Credit Card,54817.39,19,New Jersey,2021-06-18,True,
+39679,Tina Mcdonald,Savings,71212.35,18,Connecticut,2023-09-23,True,
+98376,Keith Bridges,Savings,50821.8,49,Texas,2021-03-11,True,533.0
+60746,Veronica Perez MD,Savings,37731.68,27,Rhode Island,2022-07-21,False,
+47866,Michael Bell,Credit Card,97726.58,22,Maryland,2020-10-12,True,
+13951,Jose Williams,Savings,16625.78,2,New York,2021-12-14,True,
+62980,Candace Morse,Credit Card,55925.87,10,Nevada,2023-04-01,False,
+60388,Miss Heather Lee,Credit Card,99961.07,26,West Virginia,2022-08-05,True,
+33981,Alex Hogan,Checking,89703.67,36,Maryland,2022-01-17,True,
+21559,Aaron Bryan,Savings,65123.17,42,Kansas,2024-09-29,False,
+81585,Veronica Soto,Savings,31225.51,1,Wisconsin,2020-05-31,True,339.0
+98720,Marissa Robles,Checking,80441.7,15,Mississippi,2024-02-28,True,775.0
+52298,Michael Rivera,Checking,61861.09,46,California,2025-01-01,False,771.0
+84579,Nathan Torres,Credit Card,37981.69,15,Montana,2021-06-21,True,
+5090,Elizabeth Roach,Credit Card,73554.86,5,Oklahoma,2022-03-18,True,
+82773,Edward Davis,Checking,61026.58,31,Washington,2024-04-18,False,540.0
+71817,Scott Rosales,Savings,27344.04,34,Alabama,2021-09-01,True,412.0
+10408,Matthew Davis,Checking,63355.47,2,New Jersey,2022-11-08,True,
+49039,Miguel Ball,Checking,59659.08,40,Connecticut,2024-10-30,False,739.0
+4205,John Warren,Savings,87135.8,38,Hawaii,2022-02-10,False,
+81156,William Edwards,Savings,51873.31,40,Michigan,2022-05-03,True,830.0
+10231,Anne Bennett,Checking,78067.74,23,New Jersey,2022-02-23,True,
+71129,Henry Griffin MD,Checking,3764.94,13,North Carolina,2022-08-29,False,613.0
+40540,Joel Davis,Credit Card,48570.46,16,Maine,2023-06-03,False,
+64599,Gloria House,Credit Card,65132.69,13,California,2024-05-17,False,
+12988,Jennifer Ford,Credit Card,6251.68,39,Louisiana,2024-06-22,True,
+36313,James Graham,Credit Card,4137.24,37,Virginia,2024-11-11,True,491.0
+96126,Eric Mills,Credit Card,56263.66,6,Louisiana,2021-05-01,True,
+1683,Morgan Parker,Credit Card,72670.08,31,Mississippi,2020-09-27,True,618.0
+84886,Keith Shepard,Credit Card,15082.91,39,Connecticut,2022-04-15,True,684.0
+38574,Dalton Mendez,Checking,12003.92,18,Delaware,2020-12-07,False,
+53478,Virginia Huffman,Savings,76504.56,37,Connecticut,2024-12-11,True,489.0
+31570,David Carroll,Checking,58949.31,45,Vermont,2024-07-22,False,817.0
+44967,Catherine Hall,Checking,93506.87,29,Tennessee,2025-02-05,True,
+18049,Adam Ross,Credit Card,98957.01,39,Louisiana,2020-06-08,False,426.0
+10641,Duane Hart,Savings,95018.42,29,Massachusetts,2022-07-20,False,
+62098,Brent Stanley,Credit Card,63781.55,47,Maine,2024-10-15,False,349.0
+14334,Sarah Fuentes,Checking,62726.52,25,Connecticut,2022-06-15,True,
+25674,James Johnston,Checking,93411.88,10,North Carolina,2022-06-13,False,
+71061,Christopher Leonard,Credit Card,45443.19,35,California,2023-12-15,False,
+98535,Jill Humphrey,Credit Card,9054.01,9,New Hampshire,2023-03-21,True,
+90807,Jared Morris,Savings,46416.17,17,Illinois,2025-03-06,True,536.0
+93626,Angela Mathews,Checking,75299.46,7,Alaska,2021-02-20,False,
+48833,James Medina,Credit Card,91573.48,21,Florida,2023-07-18,False,
+57542,Frederick Oconnell,Credit Card,74657.01,12,Arizona,2021-03-13,True,
+95578,Michael Mendez,Credit Card,88382.46,17,South Dakota,2025-01-22,True,
+19280,Laurie Johnson,Savings,31631.93,40,Illinois,2025-03-14,False,
+99188,Derek Reyes,Savings,36318.91,3,Rhode Island,2020-05-01,True,835.0
+98570,Priscilla Daniels,Checking,73214.79,17,Mississippi,2020-03-28,False,
+50164,Benjamin Gill,Checking,76782.45,2,Georgia,2024-10-28,False,355.0
+65347,Brian Lowe,Checking,42972.46,12,South Carolina,2022-05-23,True,
+50322,Dr. Derrick Wilson,Checking,27605.96,22,Vermont,2020-10-26,False,703.0
+43802,Judith Lopez,Savings,64432.97,6,Michigan,2020-07-25,False,
+2499,Chris Evans,Checking,72918.32,16,New Mexico,2022-10-15,True,733.0
+94701,Leslie Howe,Credit Card,6729.32,3,Georgia,2023-12-22,True,439.0
+4344,Thomas Smith,Checking,60452.38,11,Hawaii,2021-01-29,False,334.0
+23336,Thomas Cruz,Checking,27035.08,8,Delaware,2021-05-17,True,557.0
+47835,Robin Lee,Checking,52131.32,6,North Carolina,2022-06-20,True,
+53639,April Hayes,Savings,34516.65,47,Virginia,2022-08-08,True,381.0
+45872,Katrina Martinez,Checking,1881.5,6,Idaho,2024-04-10,False,656.0
+14187,Clayton Rodriguez,Checking,26447.06,47,Washington,2023-08-09,True,
+80351,Misty Savage,Savings,74008.49,6,California,2022-07-10,False,
+56268,Kyle Briggs,Checking,63921.8,37,Rhode Island,2022-05-02,False,508.0
+91356,Daniel Dawson,Checking,81530.87,31,Arizona,2021-04-20,False,733.0
+87670,James Long,Checking,22006.91,20,Montana,2024-11-18,True,548.0
+88876,Brian Wilson,Savings,85855.62,7,Kentucky,2023-10-04,False,841.0
+59169,Barry Smith,Checking,11019.43,36,Washington,2025-01-28,True,711.0
+15963,Rachel Dean,Credit Card,57356.29,17,Mississippi,2023-05-05,False,423.0
+74979,Megan Simmons,Checking,67203.3,12,Arizona,2024-05-09,False,
+27863,Victoria Reed,Savings,52564.32,30,New Mexico,2021-10-02,True,526.0
+68526,Brian Baker,Savings,74574.09,38,Wyoming,2025-03-22,True,
+36545,Anthony Morris,Checking,66185.97,14,New Hampshire,2024-03-05,False,
+27959,Jerry Watts,Checking,98337.15,14,Georgia,2022-10-22,True,311.0
+29636,Joseph Choi,Savings,9112.0,45,Wisconsin,2020-06-07,False,
+71920,April Dixon,Checking,11294.31,14,Texas,2024-11-26,True,
+98414,Cindy Mueller,Savings,17071.18,14,South Dakota,2020-02-25,True,
+16811,Dr. Thomas Brown,Credit Card,2768.18,40,West Virginia,2022-12-10,False,
+24624,Renee Smith,Credit Card,75764.52,23,Virginia,2021-11-08,False,
+25659,Allen Kelly,Checking,2547.33,50,Louisiana,2024-03-27,True,764.0
+39802,Hannah Logan,Checking,67765.66,18,Nevada,2024-11-21,True,466.0
+97894,Ann Chambers,Savings,86242.72,29,South Dakota,2025-03-06,True,
+2584,Zachary West,Savings,94186.85,9,Nebraska,2022-10-01,True,682.0
+55673,Christina Rodriguez,Credit Card,23814.04,28,Idaho,2021-01-23,True,811.0
+26026,Philip Jones,Checking,97841.69,29,Connecticut,2024-07-05,False,506.0
+16964,Shannon Patel,Credit Card,63278.89,4,Louisiana,2021-04-14,True,
+81894,Elizabeth Cervantes,Savings,8309.68,20,Idaho,2023-01-29,False,416.0
+63391,Elizabeth Alexander,Credit Card,90358.55,13,Nebraska,2023-11-30,False,
+66909,Gary Jacobs,Savings,27507.9,14,New Jersey,2023-03-03,True,
+78649,Todd Cardenas,Savings,42274.82,50,Tennessee,2020-10-06,True,349.0
+79109,Steven Davis,Checking,83244.58,46,South Dakota,2023-08-15,True,
+52593,Christopher Peterson,Credit Card,57181.51,27,Louisiana,2022-10-26,False,
+38757,Rhonda Weeks,Savings,7094.03,24,Illinois,2022-07-12,True,
+98997,Dustin Jackson,Checking,36303.26,41,Wyoming,2024-08-06,True,664.0
+69076,Kent Jackson,Credit Card,16973.91,10,Montana,2025-02-03,False,350.0
+14421,Kathleen Allen,Credit Card,50288.91,38,Washington,2021-10-09,False,
+59592,David Diaz,Checking,80390.99,32,Connecticut,2022-01-12,True,764.0
+49013,James Miranda,Savings,86049.56,25,Kansas,2024-12-11,False,416.0
+25895,Christopher Herrera,Credit Card,52114.03,34,Vermont,2021-02-08,False,481.0
+93285,Darryl Gomez,Checking,45476.28,35,Alabama,2022-09-23,False,
+40864,Darrell Sanders,Savings,43823.83,15,Hawaii,2020-11-17,False,341.0
+21294,James Hill,Credit Card,85385.72,28,South Carolina,2023-05-16,True,714.0
+70893,Dr. Elizabeth Mills DVM,Checking,68340.62,5,Ohio,2022-06-01,True,734.0
+57391,Russell Mccoy,Savings,26431.68,31,Virginia,2024-12-25,False,
+70316,Benjamin Chandler,Credit Card,64523.13,24,Colorado,2020-03-30,True,
+63093,Jason Palmer,Checking,16707.3,5,Tennessee,2025-02-27,True,816.0
+20966,Miranda Barber,Savings,19878.21,42,Nevada,2024-08-06,False,465.0
+8769,Heather Baker,Checking,86280.19,22,Iowa,2022-08-21,False,
+79178,Troy Hampton,Checking,9042.19,6,Nebraska,2020-01-14,True,
+44602,Christopher Wagner,Savings,78822.34,40,Utah,2023-02-12,True,
+24123,Kenneth Edwards,Checking,21849.76,48,Missouri,2024-12-19,True,522.0
+40902,Robin Goodwin,Credit Card,66064.75,50,Indiana,2020-10-11,False,399.0
+98225,Amanda Horton,Savings,47726.95,44,Mississippi,2021-12-08,False,
+64199,Tammy Roman,Savings,16501.89,21,Pennsylvania,2023-05-23,True,
+95684,Elizabeth Williams,Savings,3558.06,28,Nebraska,2024-05-15,False,745.0
+43881,Megan Quinn,Checking,44658.35,43,Maine,2023-08-12,False,442.0
+8089,Jill George,Checking,30468.85,47,Florida,2023-11-22,False,
+70824,Craig Clark,Credit Card,58819.95,22,Idaho,2023-08-04,True,
+27444,Jenna Walker,Savings,4499.63,12,Kentucky,2022-03-05,False,817.0
+80580,Felicia Moore,Checking,8823.96,19,Utah,2020-10-31,True,644.0
+65141,Anne Huffman,Credit Card,79935.3,13,North Dakota,2024-06-24,True,
+77315,Kayla Klein,Checking,81559.34,5,Oklahoma,2021-03-17,False,653.0
+59670,Zachary Ortega,Savings,98882.28,37,Mississippi,2023-11-14,True,539.0
+73422,Vanessa Hobbs,Credit Card,89654.04,37,Hawaii,2021-09-24,False,
+53204,Mrs. Theresa Warner MD,Credit Card,21842.16,37,Colorado,2021-01-26,True,726.0
+75709,Rhonda Kelly,Checking,42798.27,11,Pennsylvania,2022-01-02,False,
+37066,Laura Williams,Savings,7235.07,10,Indiana,2022-04-28,True,
+84430,Mr. Isaac Murphy,Savings,92464.94,22,Alabama,2023-08-28,True,
+90896,Jennifer Reed,Checking,82183.72,45,New Hampshire,2023-11-13,False,432.0
+22596,Kimberly Davis,Credit Card,89095.91,21,Washington,2022-09-25,True,
+36839,Patricia Miller,Savings,37873.96,3,Oklahoma,2020-01-26,False,
+54653,William Steele,Checking,48808.85,31,West Virginia,2023-11-16,True,731.0
+96640,Charles Nelson,Checking,86831.77,35,Connecticut,2021-02-01,False,
+4099,Kathryn Fowler DVM,Savings,29629.59,28,Maine,2023-02-03,False,692.0
+27171,Taylor Johnson,Credit Card,46385.25,30,Wisconsin,2022-12-14,True,
+24922,Joshua Wilson,Savings,21526.49,17,New Hampshire,2022-04-03,True,
+84919,Anthony Ayala,Savings,70910.85,2,South Carolina,2022-01-17,False,474.0
+30015,Calvin Simmons,Savings,57132.99,36,New Jersey,2023-11-05,True,761.0
+58349,Jon Williams,Credit Card,14210.81,20,Ohio,2020-07-12,False,
+38358,Danielle Nolan,Credit Card,77048.95,10,Michigan,2024-08-16,True,
+65987,Sarah Sawyer,Credit Card,80361.26,47,Virginia,2020-11-21,False,304.0
+9775,Amber Delgado,Savings,42022.24,13,New Jersey,2021-12-06,False,
+41256,Misty Leonard,Checking,33770.83,28,California,2020-02-09,True,
+2546,Shawn Brown,Checking,57367.58,21,Idaho,2024-02-16,True,839.0
+36248,Sara Nelson,Credit Card,9841.74,4,New Hampshire,2020-04-28,True,
+60325,Dana Ortiz,Checking,87619.3,21,North Dakota,2021-06-09,False,
+71958,George Smith,Checking,91257.22,26,Rhode Island,2021-07-14,True,476.0
+94543,Stephanie Huerta,Credit Card,92373.43,44,Nebraska,2020-02-07,False,
+83979,Christopher Roberts,Credit Card,33271.78,7,Washington,2025-02-12,True,741.0
+68813,Amy Cook,Credit Card,75616.82,12,South Carolina,2020-11-03,True,677.0
+32001,Carol Campbell,Credit Card,92099.9,26,Florida,2023-12-07,False,396.0
+13028,Dana Farrell,Checking,82052.24,42,Alabama,2022-09-23,False,
+73021,Kim Garcia,Savings,30590.43,48,Mississippi,2024-11-28,False,439.0
+25303,Nancy Watkins,Savings,74749.72,15,New Mexico,2020-03-10,False,
+13673,Michelle Snyder,Checking,19235.27,20,Nebraska,2020-04-21,False,796.0
+5053,Samantha Larsen,Savings,14363.24,1,Oklahoma,2023-02-05,True,
+56262,Traci Mathis,Checking,99419.62,4,California,2021-06-19,True,
+27709,Anne Mejia,Checking,31037.46,32,Massachusetts,2024-03-23,False,626.0
+87228,Brandon Turner,Savings,38601.53,41,Utah,2024-05-16,True,763.0
+60008,Mark Castro,Credit Card,48741.67,12,Wyoming,2020-04-28,True,645.0
+99709,Randy White,Checking,31372.84,4,Iowa,2021-12-01,False,821.0
+36807,Andrew Christian,Checking,76232.52,21,Mississippi,2021-10-19,True,
+15370,Michael Cruz,Credit Card,11584.1,13,Kansas,2020-09-19,False,719.0
+59346,Rick Jensen,Checking,61850.94,24,Alabama,2024-12-03,False,
+47989,Renee Murray,Checking,30244.84,20,Alaska,2021-10-13,True,476.0
+37943,John Thomas,Credit Card,71262.87,3,Ohio,2020-01-14,False,
+10846,Robert Kim,Credit Card,55965.17,13,Alaska,2024-11-14,True,594.0
+68081,Victor Jones,Savings,63197.45,25,Louisiana,2024-08-26,True,
+30129,Stephen Myers,Savings,15465.07,8,Texas,2020-07-09,True,371.0
+56477,Andrea Washington,Savings,82257.92,41,Massachusetts,2021-11-04,False,377.0
+39875,Erin Barker,Credit Card,26795.44,11,Mississippi,2021-08-14,False,
+37255,Cindy Cline,Checking,18428.66,28,Michigan,2024-03-01,True,
+39689,Craig Peterson,Checking,30598.81,32,Nevada,2020-12-19,True,
+14427,Mrs. Amanda Newton,Credit Card,62693.77,8,Georgia,2024-09-03,True,582.0
+99489,Natalie Brooks,Credit Card,78045.94,22,Alabama,2020-06-29,False,
+28723,Mrs. Brittany Williams,Savings,75441.1,44,New Mexico,2024-05-23,False,
+13301,Christopher Benton,Credit Card,77643.68,41,Indiana,2021-10-17,True,529.0
+5281,John Wolfe,Savings,99011.22,14,Vermont,2020-07-27,True,
+33613,Elizabeth Lewis,Savings,35172.86,27,Texas,2024-06-16,True,
+63913,Lisa Dennis,Credit Card,62989.99,1,Iowa,2023-09-25,True,
+40397,David Pittman,Savings,5790.68,1,New Hampshire,2023-05-31,False,
+1213,Timothy Davis,Savings,68136.9,46,Iowa,2022-06-27,True,
+34767,Dawn Davis,Savings,34327.73,25,Wisconsin,2020-10-28,False,664.0
+1737,Christopher Henderson,Credit Card,18352.33,11,New Mexico,2022-11-27,False,528.0
+44758,Anthony Proctor,Checking,9887.93,38,Nebraska,2022-08-30,False,
+26577,Robyn Taylor,Checking,94953.0,15,Connecticut,2022-10-18,True,
+63169,Cindy Proctor,Credit Card,99482.62,1,Alaska,2024-01-18,False,
+80239,Tara Osborne,Savings,85882.59,48,Georgia,2022-05-23,False,
+7413,Michael Dixon,Credit Card,31885.01,28,Missouri,2023-05-29,True,
+37549,Victoria Sosa,Credit Card,38424.18,21,Washington,2023-01-25,True,804.0
+98956,Alicia Mack,Savings,3387.86,25,Hawaii,2020-04-25,True,372.0
+24771,Randy Hale,Checking,48339.82,24,Georgia,2022-10-26,False,
+56392,Amanda Hunt,Credit Card,5322.71,35,Alaska,2024-06-14,True,735.0
+45518,Eric Huff,Savings,83704.47,29,Arkansas,2024-03-26,True,
+74223,Michael Lee,Credit Card,35372.72,34,Kentucky,2020-08-31,False,430.0
+5642,Jason Watkins,Credit Card,66150.19,47,Nebraska,2020-03-13,False,641.0
+57359,Ryan Chandler,Savings,31932.48,35,New Hampshire,2023-07-04,True,
+90351,Kelly Martinez,Checking,73634.22,40,Idaho,2022-05-12,False,653.0
+43921,Phyllis Lewis,Checking,57487.51,31,Illinois,2022-04-18,False,
+97413,Jeffrey Bowman,Savings,28652.75,19,South Carolina,2022-11-27,True,459.0
+22780,David Tran,Savings,18548.39,32,Maine,2022-09-26,False,
+99514,Joseph Serrano,Credit Card,48838.04,23,Maryland,2024-10-03,False,310.0
+93258,William Jacobs,Savings,11071.33,44,North Dakota,2023-08-24,False,306.0
+59769,Amanda Hull,Savings,45253.23,32,Wisconsin,2024-06-23,True,585.0
+80457,Michael Johnson,Credit Card,75136.44,19,Vermont,2023-07-24,False,
+70521,Brianna Smith,Credit Card,41220.83,26,Maryland,2023-05-22,True,
+5445,Thomas Adams,Credit Card,74242.03,3,North Dakota,2023-08-15,True,370.0
+31896,Harold Cervantes,Credit Card,69423.71,14,Vermont,2023-01-08,False,726.0
+11019,Kaitlin Bailey,Savings,45093.86,10,Arizona,2020-06-22,True,
+35808,Paul Goodman,Credit Card,77146.35,19,Florida,2022-08-23,False,
+83418,Larry Smith,Credit Card,16181.66,17,Nebraska,2021-12-13,True,
+41240,Yolanda Molina,Checking,88566.86,45,New Mexico,2022-12-04,True,
+40572,Jocelyn Miller,Savings,28210.09,33,Nevada,2020-04-08,True,546.0
+28580,Justin Moyer,Checking,86777.89,22,West Virginia,2021-12-16,True,550.0
+76867,Teresa Palmer,Credit Card,68880.58,15,Missouri,2025-01-12,False,784.0
+31810,Jamie Francis,Savings,22062.93,24,Idaho,2024-06-01,False,
+42349,Meghan Gonzalez,Savings,1339.91,14,Vermont,2022-04-15,False,327.0
+49219,Taylor Poole,Savings,94948.5,40,Idaho,2021-11-16,True,

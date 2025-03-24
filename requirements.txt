@@ -1,0 +1,4 @@
+data_formulator 
+Faker 
+pandas 
+numpy
