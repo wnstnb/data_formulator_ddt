@@ -6,7 +6,7 @@ This repository contains a Python script that generates synthetic financial data
 
 The script `make_fake_data.py` creates three interconnected CSV files and puts them in the `data` folder:
 
-1. **bank_data.csv**: Customer account information (100 customers)
+1. **bank_data.csv**: Customer account information
    - CustomerID, Name, AccountType, Balance, TransactionCount, Region, JoinDate, IsActive, CreditScore
 
 2. **monthly_balances.csv**: Historical month-end balances for each customer
